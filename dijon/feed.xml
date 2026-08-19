@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:coda.school,2026:veille-dijon-bfc</id>
+  <title>Veille Alternance Tech — Dijon-BFC — Offres actives</title>
+  <link rel="alternate" type="text/html" href="index.html"/>
+  <updated>2026-08-19T00:00:00Z</updated>
+  <entry>
+    <id>tag:coda.school,2026:offre-a678efd41e336474</id>
+    <title>Apprenti·e Administrateur - Administratrice de Systèmes et Réseaux H/F — École Nationale des Greffes (Dijon)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/81303467.html"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Support informatique : déploiement et maintenance du parc informatique, gestion de l&#x27;environnement numérique de travail, assistance aux infrastructures et supervision des réseaux. — Bac+2 à Bac+5 — Windows, parc informatique, environnement numérique de travail, supervision réseaux, serveurs</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-c2318c5f755ffa17</id>
+    <title>Alternant R&amp;amp;D Logiciel Embarqué (H/F) — CARVOLIX (Besançon)</title>
+    <link href="https://candidat.francetravail.fr/offres/recherche/detail/211YJZH"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Le groupe Carvolix regroupe différents programmes qui développent et fabriquent des dispositifs médicaux implantables innovants.  Le site de Myopowers à Besançon travaille sur un sphincter urinaire artificiel pour traite —  — </summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-8c6a230dd3bb5800</id>
+    <title>Développeur C# .Net - Alternance H/F — Evoriel (Châtillon-le-Duc)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/80834020.html"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Développement d&#x27;applications métier en C#/.NET au sein de l&#x27;équipe IT, participation aux tests, à la qualité du code et à l&#x27;intégration continue en environnement agile. — Bac+2 à Bac+5 — C#, .NET, ASP.NET, SQL, Git</summary>
+  </entry>
+</feed>
