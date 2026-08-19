@@ -8,53 +8,83 @@
 <link rel="alternate" type="application/atom+xml" title="Offres actives — Dijon-BFC" href="feed.xml">
 <style>
 :root {
-  --bleu: #1A3A6B; --bleu-clair: #EEF3FB; --gris: #555555;
-  --jaune-new: #FFF9C4; --ambre: #FF6F00; --bordure: #DDDDDD; --zebra: #FAFAFA;
+  --bleu: #1A3A6B; --bleu-clair: #EEF3FB; --gris: #5B6270;
+  --jaune-new: #FFF3B8; --ambre: #FF6F00; --bordure: #E3E6EC; --zebra: #F7F9FC;
+  --bg: #FFFFFF; --texte: #14161B; --surface: #FFFFFF;
+  --ombre: 0 1px 2px rgba(16,24,40,.06), 0 1px 6px rgba(16,24,40,.06);
+  --rayon: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bleu: #7FA8F2; --bleu-clair: #16233D; --gris: #9AA2B1;
+    --jaune-new: #4A3C10; --ambre: #FFA557; --bordure: #262B35; --zebra: #191D25;
+    --bg: #0E1015; --texte: #E7E9EE; --surface: #14171E;
+    --ombre: 0 1px 2px rgba(0,0,0,.4), 0 4px 14px rgba(0,0,0,.35);
+  }
 }
 * { box-sizing: border-box; }
+html { color-scheme: light dark; }
 body {
-  font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  margin: 0; color: #1a1a1a; background: #ffffff;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  margin: 0; color: var(--texte); background: var(--bg); -webkit-font-smoothing: antialiased;
 }
 header {
-  background: var(--bleu); color: #fff; padding: 1.2rem 1.5rem;
+  background: linear-gradient(135deg, var(--bleu), #0F2547); color: #fff;
+  padding: 1.7rem 1.75rem;
 }
-header h1 { margin: 0 0 .2rem; font-size: 1.3rem; }
-header p { margin: 0; color: #cfe0f7; font-size: .9rem; }
+header h1 { margin: 0 0 .3rem; font-size: 1.45rem; font-weight: 700; letter-spacing: -.01em; }
+header p { margin: 0; color: #d3e2f8; font-size: .92rem; }
 nav {
-  background: var(--bleu-clair); padding: .6rem 1.5rem; display: flex; gap: 1.2rem;
-  border-bottom: 1px solid var(--bordure);
+  background: var(--surface); padding: .65rem 1.5rem; display: flex; gap: .5rem;
+  align-items: center; border-bottom: 1px solid var(--bordure);
+  position: sticky; top: 0; z-index: 5;
 }
 nav a {
-  color: var(--bleu); text-decoration: none; font-weight: 600; font-size: .95rem;
-  padding: .3rem .6rem; border-radius: 4px;
+  color: var(--bleu); text-decoration: none; font-weight: 600; font-size: .9rem;
+  padding: .5rem .9rem; border-radius: 999px; transition: background .15s ease;
 }
+nav a:hover { background: var(--bleu-clair); }
 nav a.actif { background: var(--bleu); color: #fff; }
-nav a.rss { margin-left: auto; color: var(--ambre); border: 1px solid var(--ambre); }
+nav a.actif:hover { background: var(--bleu); }
+nav a.rss {
+  margin-left: auto; color: var(--ambre); border: 1px solid var(--ambre); background: transparent;
+}
 nav a.rss:hover { background: var(--ambre); color: #fff; }
-main { padding: 1rem 1.5rem 3rem; max-width: 1200px; margin: 0 auto; }
+main { padding: 1.6rem 1.75rem 3rem; max-width: 1200px; margin: 0 auto; }
+main h2 { font-size: 1.05rem; font-weight: 700; margin: 0 0 .8rem; }
 #recherche {
-  width: 100%; max-width: 420px; padding: .5rem .7rem; margin: 1rem 0;
-  border: 1px solid var(--bordure); border-radius: 6px; font-size: .95rem;
+  width: 100%; max-width: 420px; padding: .6rem .85rem; margin: 0 0 1.3rem;
+  border: 1px solid var(--bordure); border-radius: 8px; font-size: .95rem;
+  background: var(--surface); color: var(--texte);
+}
+#recherche:focus { outline: 2px solid var(--bleu); outline-offset: 1px; }
+.tableau-scroll {
+  overflow-x: auto; border-radius: var(--rayon); box-shadow: var(--ombre);
+  border: 1px solid var(--bordure); -webkit-overflow-scrolling: touch;
 }
 td.categorie {
-  color: #fff; font-weight: 700; padding: .5rem .8rem; font-size: .95rem;
+  color: #fff; font-weight: 700; padding: .55rem .9rem; font-size: .9rem;
 }
-table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: .87rem; background: var(--surface); }
 th, td {
-  border: 1px solid var(--bordure); padding: .5rem .6rem; text-align: left;
+  border-bottom: 1px solid var(--bordure); padding: .65rem .75rem; text-align: left;
   vertical-align: top;
 }
-th { background: var(--bleu); color: #fff; font-size: .82rem; }
-tbody tr:nth-child(even) { background: var(--zebra); }
-tr.new td { background: var(--jaune-new); }
-.badge-new {
-  background: var(--ambre); color: #fff; font-weight: 700; font-size: .72rem;
-  padding: .15rem .4rem; border-radius: 3px; white-space: nowrap;
+th {
+  background: var(--bleu); color: #fff; font-size: .74rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: .04em;
 }
-a.offre-lien { color: var(--bleu); font-weight: 600; }
-.vide { color: var(--gris); font-style: italic; padding: 1rem 0; }
-footer { color: var(--gris); font-size: .8rem; padding: 1.5rem; text-align: center; }
+tbody tr:nth-child(even) td { background: var(--zebra); }
+tbody tr:hover td { background: var(--bleu-clair); }
+tr.new td { background: var(--jaune-new) !important; }
+.badge-new {
+  background: var(--ambre); color: #fff; font-weight: 700; font-size: .68rem;
+  padding: .2rem .5rem; border-radius: 999px; white-space: nowrap;
+}
+a.offre-lien { color: var(--bleu); font-weight: 600; text-decoration: none; }
+a.offre-lien:hover { text-decoration: underline; }
+.vide { color: var(--gris); font-style: italic; padding: 1.5rem 0; }
+footer { color: var(--gris); font-size: .8rem; padding: 2rem 1.75rem; text-align: center; }
 </style>
 </head>
 <body>
@@ -70,7 +100,9 @@ footer { color: var(--gris); font-size: .8rem; padding: 1.5rem; text-align: cent
 <main>
   <h2>Offres clôturées / expirées</h2>
   <input id="recherche" type="search" placeholder="Filtrer par poste, entreprise, ville, techno…" autocomplete="off">
+  <div class="tableau-scroll">
   <table><thead><tr><th></th><th>Profil</th><th>Poste</th><th>Entreprise</th><th>Ville</th><th>Niveau</th><th>Source</th><th>Résumé</th><th>Technologies</th><th>Lien</th></tr></thead><tbody><tr><td colspan="10" class="categorie" style="background:#155724">Fullstack/Backend</td></tr><tr class="" data-recherche="alternance - développeur web h/f enedis dijon développement d&#x27;applications métier, si développeur fullstack"><td></td><td>Développeur Fullstack</td><td>Alternance - Développeur Web H/F</td><td>Enedis</td><td>Dijon</td><td>Bac+3 à Bac+5</td><td>Enedis</td><td>Au sein de l&#x27;équipe Digital de la Direction Régionale Bourgogne d&#x27;Enedis, l&#x27;alternant développera des applications métier destinées aux agents, managers et prestataires externes, au sein d&#x27;une équipe jeune et dynamique composée principalement d&#x27;alternants. Trouvé via recherche web (Welcome to the Jungle, page bloquée en accès direct).</td><td>Développement d&#x27;applications métier, SI</td><td><a class="offre-lien" href="https://www.welcometothejungle.com/fr/companies/enedis/jobs/alternance-developpeur-web-h-f_dijon_ENEDI_1yZD4J8" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr><td colspan="10" class="categorie" style="background:#4A1D7A">DevOps/SRE</td></tr><tr class="" data-recherche="alternance - concepteur devops (f/h) bpce (bpce solutions informatiques) dijon xlrelease/xldeploy, sonar, checkmarx, java, pipelines ci/cd lead développeur, devops"><td></td><td>Lead développeur, DevOps</td><td>Alternance - Concepteur DevOps (F/H)</td><td>BPCE (BPCE Solutions Informatiques)</td><td>Dijon</td><td>Bac+4</td><td>page carrière (BPCE-SI)</td><td>L&#x27;alternant participe aux activités DevOps d&#x27;un produit à forte visibilité : mise en place de pipelines de construction, exploitation de XLRelease/XLDeploy, suivi et correction des vulnérabilités remontées par Sonar et Checkmarx, avec un accompagnement d&#x27;un chef de projet et d&#x27;un DevOps expérimenté.</td><td>XLRelease/XLDeploy, Sonar, Checkmarx, Java, pipelines CI/CD</td><td><a class="offre-lien" href="https://recrutement.bpce.fr/job/alternance-concepteur-devops-f-h-dijon" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="alternance - ingénieur transformation digitale h/f ge vernova belfort docker, python, aws devops"><td></td><td>DevOps</td><td>Alternance - Ingénieur transformation digitale H/F</td><td>GE Vernova</td><td>Belfort</td><td></td><td>page carrière (GE Vernova)</td><td>L&#x27;alternant participe à la transformation digitale de l&#x27;ingénierie GE Vernova, en développant des solutions logicielles s&#x27;appuyant sur Docker, Python et des services AWS, dans un environnement pluridisciplinaire.</td><td>Docker, Python, AWS</td><td><a class="offre-lien" href="https://careers.gevernova.com/fr/alternance-ing%C3%A9nieur-transformation-digitale-h-f/job/R5037396" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr><td colspan="10" class="categorie" style="background:#721C24">Cybersécurité</td></tr><tr class="" data-recherche="alternance - bac+4/+5 - amélioration de la cybersécurité d&#x27;un système d&#x27;information complexe h/f cea / dam valduc (is-sur-tille) sécurité des si, administration d&#x27;outils de supervision (soc) cybersécurité"><td></td><td>Cybersécurité</td><td>Alternance - Bac+4/+5 - Amélioration de la cybersécurité d&#x27;un système d&#x27;information complexe H/F</td><td>CEA / DAM</td><td>Valduc (Is-sur-Tille)</td><td>Bac+4/Bac+5</td><td>page carrière (CEA / DAM)</td><td>L&#x27;alternant met en œuvre les évolutions des architectures informatiques des systèmes d&#x27;information industriels du centre de Valduc et assure l&#x27;administration des outils de supervision de sécurité (SOC).</td><td>Sécurité des SI, administration d&#x27;outils de supervision (SOC)</td><td><a class="offre-lien" href="https://www.emploi.cea.fr/offre-de-emploi/emploi-alternance-bac-4-5-amelioration-de-la-cybersecurite-d-un-systeme-d-information-complexe-h-f_34923.aspx" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="alternance - bac+4/+5 - amélioration de la sécurité informatique d&#x27;une infrastructure réseau h/f cea / dam valduc (is-sur-tille) architectures réseau, supervision (soc), sécurité des systèmes d&#x27;information industriels cybersécurité"><td></td><td>Cybersécurité</td><td>Alternance - Bac+4/+5 - Amélioration de la sécurité informatique d&#x27;une infrastructure réseau H/F</td><td>CEA / DAM</td><td>Valduc (Is-sur-Tille)</td><td>Bac+4/Bac+5</td><td>page carrière (CEA / DAM)</td><td>L&#x27;alternant contribue au maintien en condition de sécurité et à la conduite de projets de sécurisation des réseaux informatiques (industriels, scientifiques, tertiaires) du centre CEA de Valduc.</td><td>Architectures réseau, supervision (SOC), sécurité des systèmes d&#x27;information industriels</td><td><a class="offre-lien" href="https://www.emploi.cea.fr/offre-de-emploi/emploi-alternance-bac-4-5-amelioration-de-la-securite-informatique-d-une-infrastructure-reseau-h-f_39491.aspx" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr><td colspan="10" class="categorie" style="background:#0C4A4A">Data/IA</td></tr><tr class="" data-recherche="développeur - développeuse ia h/f france travail besançon python, ia (nlp, vision, séries temporelles), machine learning data/ia"><td></td><td>Data/IA</td><td>Développeur - Développeuse IA H/F</td><td>France Travail</td><td>Besançon</td><td>Bac+2 à Bac+5</td><td>Hellowork</td><td>L&#x27;alternant développera des solutions informatiques intégrant l&#x27;intelligence artificielle (modèles NLP, vision et séries temporelles) pour France Travail, concevra et testera des applicatifs IA, et documentera les processus et architectures associés.</td><td>Python, IA (NLP, vision, séries temporelles), Machine Learning</td><td><a class="offre-lien" href="https://www.hellowork.com/fr-fr/emplois/82342967.html" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="alternance : ingénieur transformation digitale h/f ge vernova belfort python (pandas, fastapi/flask), docker, aws, nlp, llm, prompt engineering datascience et intelligence artificielle"><td></td><td>Datascience et Intelligence Artificielle</td><td>Alternance : Ingénieur transformation digitale H/F</td><td>GE Vernova</td><td>Belfort</td><td>Bac+4 à Bac+5</td><td>GE Vernova</td><td>L&#x27;alternant participera à la transformation digitale de l&#x27;ingénierie chez GE Vernova : développement de solutions avec Docker/Python/AWS, consolidation d&#x27;une base d&#x27;applications Python et développement de capacités d&#x27;analyse de données textuelles via l&#x27;intelligence artificielle (NLP, LLM). Début prévu en septembre 2026.</td><td>Python (Pandas, FastAPI/Flask), Docker, AWS, NLP, LLM, prompt engineering</td><td><a class="offre-lien" href="https://careers.gevernova.com/alternance-ing%C3%A9nieur-transformation-digitale-h-f/job/R5037396" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="apprenti(e) ingénieur de fréquence h/f (visualisation de données de tests réseau) ge vernova belfort python, sql, interface de visualisation de données datascience et intelligence artificielle"><td></td><td>Datascience et Intelligence Artificielle</td><td>Apprenti(e) Ingénieur de Fréquence H/F (visualisation de données de tests réseau)</td><td>GE Vernova</td><td>Belfort</td><td></td><td>page carrière (GE Vernova)</td><td>L&#x27;alternant développe une interface Python connectée à une base de données SQL pour la visualisation et l&#x27;analyse de données de tests réseau sur turbines à combustion, sur site à Belfort.</td><td>Python, SQL, interface de visualisation de données</td><td><a class="offre-lien" href="https://careers.gevernova.com/fr/apprenti-e-ing%C3%A9nieur-de-fr%C3%A9quence-h-f/job/R5037675" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr><td colspan="10" class="categorie" style="background:#5C3D00">Admin Système &amp; Support IT</td></tr><tr class="" data-recherche="apprenti(e) technicien(ne) informatique h/f adhex technologies chenôve support informatique, parc informatique support it et environnement de travail numérique"><td></td><td>Support IT et Environnement de travail numérique</td><td>Apprenti(e) Technicien(ne) Informatique H/F</td><td>Adhex Technologies</td><td>Chenôve</td><td></td><td>page carrière (Adhex Technologies)</td><td>L&#x27;apprenti technicien informatique rejoint le site industriel Adhex Technologies de Chenôve pour assurer le support et la maintenance du parc informatique (référence ALT_Info25).</td><td>Support informatique, parc informatique</td><td><a class="offre-lien" href="https://www.engagement-jeunes.com/fr/detail-offre/29765271/contrat-d-apprentissage-adhex-technologies-apprenti-e-technicien-ne-informatique-h-f.html" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="alternance - technicien informatique h/f essilorluxottica dijon support utilisateurs, infrastructure, déploiement systèmes d&#x27;impression support it et environnement de travail numérique"><td></td><td>Support IT et Environnement de travail numérique</td><td>Alternance - Technicien informatique H/F</td><td>EssilorLuxottica</td><td>Dijon</td><td></td><td>page carrière (EssilorLuxottica)</td><td>L&#x27;alternant assure le support informatique aux utilisateurs et à l&#x27;infrastructure du site de Dijon, et participe à des projets de déploiement de systèmes d&#x27;impression au niveau mondial du groupe.</td><td>Support utilisateurs, infrastructure, déploiement systèmes d&#x27;impression</td><td><a class="offre-lien" href="https://careers.essilorluxottica.com/job/Dijon-ALTERNANCE-Technicien-informatique-HF/1182354701/" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="apprenti(e) it forvia (faurecia clean mobility) allenjoie applications et infrastructures it locales support it et environnement de travail numérique"><td></td><td>Support IT et Environnement de travail numérique</td><td>Apprenti(e) IT</td><td>Forvia (Faurecia Clean Mobility)</td><td>Allenjoie</td><td>Bac+2 à Bac+5</td><td>Forvia</td><td>L&#x27;apprenti IT participera à la coordination et à la mise en œuvre des applications et infrastructures informatiques locales du site Forvia Clean Mobility d&#x27;Allenjoie, dans le cadre d&#x27;une alternance de 24 mois débutant en septembre 2026.</td><td>Applications et infrastructures IT locales</td><td><a class="offre-lien" href="https://jobs.faurecia.com/careers/job/563087417025903" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="alternance - correspondant informatique f/h framatome chalon-sur-saône pack office/excel, gestion de projet informatique, cybersécurité (notions) support it et environnement de travail numérique"><td></td><td>Support IT et Environnement de travail numérique</td><td>Alternance - Correspondant informatique F/H</td><td>Framatome</td><td>Chalon-sur-Saône</td><td>Bac+2/Bac+3</td><td>page carrière (Framatome)</td><td>Au sein du service Préparation, Suivi et Support aux Opérations, l&#x27;alternant intègre l&#x27;équipe des correspondants informatiques de la Direction Travaux : intégration informatique des collaborateurs, gestion du matériel, support utilisateurs et contribution à l&#x27;amélioration continue des outils informatiques.</td><td>Pack Office/Excel, gestion de projet informatique, cybersécurité (notions)</td><td><a class="offre-lien" href="https://www.welcometothejungle.com/fr/companies/framatome-1/jobs/alternance-correspondant-informatique-f-h_chalon-sur-saone" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="administrateur systèmes junior h/f néos-sdi dijon microsoft 365, windows server, azure, active directory, exchange, hyperv, intune, entra id, mfa, pim administrateur système et réseaux"><td></td><td>Administrateur Système et Réseaux</td><td>Administrateur systèmes Junior H/F</td><td>Néos-SDI</td><td>Dijon</td><td>Bac+2 à Bac+5</td><td>Néos-SDI</td><td>L&#x27;alternant administrera et optimisera les infrastructures Microsoft (on-premise et cloud) des clients de Néos-SDI, déploiera et gérera des solutions Azure, participera à la sécurisation via Intune et à des projets de cybersécurité (Entra ID, MFA, PIM, monitoring, accès conditionnel).</td><td>Microsoft 365, Windows Server, Azure, Active Directory, Exchange, HyperV, Intune, Entra ID, MFA, PIM</td><td><a class="offre-lien" href="https://neos-sdi.com/emploi/administrateur-systemes-junior-dijon-h-f/" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="alternance - apprenti(e) automatisme/informatique industrielle f/h vetoquinol lure automatisme, systèmes industriels, sauvegarde/restauration, programmes automates administrateur système et réseaux"><td></td><td>Administrateur Système et Réseaux</td><td>Alternance - Apprenti(e) Automatisme/Informatique industrielle F/H</td><td>Vetoquinol</td><td>Lure</td><td>Bac+2 à Bac+3 (BUT)</td><td>Vetoquinol</td><td>L&#x27;alternant réalisera la cartographie et l&#x27;inventaire des systèmes industriels du site Vetoquinol de Lure, participera à la sécurisation de l&#x27;infrastructure et des systèmes industriels, effectuera des tests de sauvegarde/restauration des automates et contribuera à la rédaction d&#x27;un plan d&#x27;évolution des systèmes sur 5 ans. Note : Lure (70, Haute-Saône) est hors périmètre strict des 7 départements mais figure explicitement comme employeur régional confirmé dans les sources du campus.</td><td>Automatisme, systèmes industriels, sauvegarde/restauration, programmes automates</td><td><a class="offre-lien" href="https://jobs.smartrecruiters.com/Vetoquinol/743999741980325-alternance-apprenti-e-automatisme-informatique-industrielle-f-h" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="alternance - apprenti(e) automatisme/informatique industrielle f/h vetoquinol lure cartographie des systèmes industriels, sécurisation d&#x27;infrastructure, tests admin système &amp; réseaux"><td></td><td>Admin Système &amp; Réseaux</td><td>Alternance - Apprenti(e) Automatisme/informatique industrielle F/H</td><td>Vetoquinol</td><td>Lure</td><td>BUT réseaux &amp; télécoms ou informatique industrielle</td><td>page carrière (Vetoquinol)</td><td>L&#x27;alternant participe à la cartographie des systèmes industriels du site de Lure, à la sécurisation de l&#x27;infrastructure et à la réalisation de tests dans le cadre du programme automatisme/informatique industrielle.</td><td>Cartographie des systèmes industriels, sécurisation d&#x27;infrastructure, tests</td><td><a class="offre-lien" href="https://www.smartrecruiters.com/Vetoquinol/743999741980325-alternance-apprenti-e-automatisme-informatique-industrielle-f-h" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr></tbody></table>
+  </div>
 </main>
 <footer>Généré automatiquement — CODA. Offres issues de sources publiques, non garanties.</footer>
 <script>

@@ -8,53 +8,83 @@
 <link rel="alternate" type="application/atom+xml" title="Offres actives — Dijon-BFC" href="feed.xml">
 <style>
 :root {
-  --bleu: #1A3A6B; --bleu-clair: #EEF3FB; --gris: #555555;
-  --jaune-new: #FFF9C4; --ambre: #FF6F00; --bordure: #DDDDDD; --zebra: #FAFAFA;
+  --bleu: #1A3A6B; --bleu-clair: #EEF3FB; --gris: #5B6270;
+  --jaune-new: #FFF3B8; --ambre: #FF6F00; --bordure: #E3E6EC; --zebra: #F7F9FC;
+  --bg: #FFFFFF; --texte: #14161B; --surface: #FFFFFF;
+  --ombre: 0 1px 2px rgba(16,24,40,.06), 0 1px 6px rgba(16,24,40,.06);
+  --rayon: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bleu: #7FA8F2; --bleu-clair: #16233D; --gris: #9AA2B1;
+    --jaune-new: #4A3C10; --ambre: #FFA557; --bordure: #262B35; --zebra: #191D25;
+    --bg: #0E1015; --texte: #E7E9EE; --surface: #14171E;
+    --ombre: 0 1px 2px rgba(0,0,0,.4), 0 4px 14px rgba(0,0,0,.35);
+  }
 }
 * { box-sizing: border-box; }
+html { color-scheme: light dark; }
 body {
-  font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  margin: 0; color: #1a1a1a; background: #ffffff;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  margin: 0; color: var(--texte); background: var(--bg); -webkit-font-smoothing: antialiased;
 }
 header {
-  background: var(--bleu); color: #fff; padding: 1.2rem 1.5rem;
+  background: linear-gradient(135deg, var(--bleu), #0F2547); color: #fff;
+  padding: 1.7rem 1.75rem;
 }
-header h1 { margin: 0 0 .2rem; font-size: 1.3rem; }
-header p { margin: 0; color: #cfe0f7; font-size: .9rem; }
+header h1 { margin: 0 0 .3rem; font-size: 1.45rem; font-weight: 700; letter-spacing: -.01em; }
+header p { margin: 0; color: #d3e2f8; font-size: .92rem; }
 nav {
-  background: var(--bleu-clair); padding: .6rem 1.5rem; display: flex; gap: 1.2rem;
-  border-bottom: 1px solid var(--bordure);
+  background: var(--surface); padding: .65rem 1.5rem; display: flex; gap: .5rem;
+  align-items: center; border-bottom: 1px solid var(--bordure);
+  position: sticky; top: 0; z-index: 5;
 }
 nav a {
-  color: var(--bleu); text-decoration: none; font-weight: 600; font-size: .95rem;
-  padding: .3rem .6rem; border-radius: 4px;
+  color: var(--bleu); text-decoration: none; font-weight: 600; font-size: .9rem;
+  padding: .5rem .9rem; border-radius: 999px; transition: background .15s ease;
 }
+nav a:hover { background: var(--bleu-clair); }
 nav a.actif { background: var(--bleu); color: #fff; }
-nav a.rss { margin-left: auto; color: var(--ambre); border: 1px solid var(--ambre); }
+nav a.actif:hover { background: var(--bleu); }
+nav a.rss {
+  margin-left: auto; color: var(--ambre); border: 1px solid var(--ambre); background: transparent;
+}
 nav a.rss:hover { background: var(--ambre); color: #fff; }
-main { padding: 1rem 1.5rem 3rem; max-width: 1200px; margin: 0 auto; }
+main { padding: 1.6rem 1.75rem 3rem; max-width: 1200px; margin: 0 auto; }
+main h2 { font-size: 1.05rem; font-weight: 700; margin: 0 0 .8rem; }
 #recherche {
-  width: 100%; max-width: 420px; padding: .5rem .7rem; margin: 1rem 0;
-  border: 1px solid var(--bordure); border-radius: 6px; font-size: .95rem;
+  width: 100%; max-width: 420px; padding: .6rem .85rem; margin: 0 0 1.3rem;
+  border: 1px solid var(--bordure); border-radius: 8px; font-size: .95rem;
+  background: var(--surface); color: var(--texte);
+}
+#recherche:focus { outline: 2px solid var(--bleu); outline-offset: 1px; }
+.tableau-scroll {
+  overflow-x: auto; border-radius: var(--rayon); box-shadow: var(--ombre);
+  border: 1px solid var(--bordure); -webkit-overflow-scrolling: touch;
 }
 td.categorie {
-  color: #fff; font-weight: 700; padding: .5rem .8rem; font-size: .95rem;
+  color: #fff; font-weight: 700; padding: .55rem .9rem; font-size: .9rem;
 }
-table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: .87rem; background: var(--surface); }
 th, td {
-  border: 1px solid var(--bordure); padding: .5rem .6rem; text-align: left;
+  border-bottom: 1px solid var(--bordure); padding: .65rem .75rem; text-align: left;
   vertical-align: top;
 }
-th { background: var(--bleu); color: #fff; font-size: .82rem; }
-tbody tr:nth-child(even) { background: var(--zebra); }
-tr.new td { background: var(--jaune-new); }
-.badge-new {
-  background: var(--ambre); color: #fff; font-weight: 700; font-size: .72rem;
-  padding: .15rem .4rem; border-radius: 3px; white-space: nowrap;
+th {
+  background: var(--bleu); color: #fff; font-size: .74rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: .04em;
 }
-a.offre-lien { color: var(--bleu); font-weight: 600; }
-.vide { color: var(--gris); font-style: italic; padding: 1rem 0; }
-footer { color: var(--gris); font-size: .8rem; padding: 1.5rem; text-align: center; }
+tbody tr:nth-child(even) td { background: var(--zebra); }
+tbody tr:hover td { background: var(--bleu-clair); }
+tr.new td { background: var(--jaune-new) !important; }
+.badge-new {
+  background: var(--ambre); color: #fff; font-weight: 700; font-size: .68rem;
+  padding: .2rem .5rem; border-radius: 999px; white-space: nowrap;
+}
+a.offre-lien { color: var(--bleu); font-weight: 600; text-decoration: none; }
+a.offre-lien:hover { text-decoration: underline; }
+.vide { color: var(--gris); font-style: italic; padding: 1.5rem 0; }
+footer { color: var(--gris); font-size: .8rem; padding: 2rem 1.75rem; text-align: center; }
 </style>
 </head>
 <body>
@@ -70,7 +100,9 @@ footer { color: var(--gris); font-size: .8rem; padding: 1.5rem; text-align: cent
 <main>
   <h2>Offres actives</h2>
   <input id="recherche" type="search" placeholder="Filtrer par poste, entreprise, ville, techno…" autocomplete="off">
+  <div class="tableau-scroll">
   <table><thead><tr><th></th><th>Profil</th><th>Poste</th><th>Entreprise</th><th>Ville</th><th>Niveau</th><th>Source</th><th>Résumé</th><th>Technologies</th><th>Lien</th></tr></thead><tbody><tr><td colspan="10" class="categorie" style="background:#155724">Fullstack/Backend</td></tr><tr class="" data-recherche="alternant r&amp;amp;d logiciel embarqué (h/f) carvolix besançon  backend"><td></td><td>Backend</td><td>Alternant R&amp;amp;D Logiciel Embarqué (H/F)</td><td>CARVOLIX</td><td>Besançon</td><td></td><td>La Bonne Alternance</td><td>Le groupe Carvolix regroupe différents programmes qui développent et fabriquent des dispositifs médicaux implantables innovants.  Le site de Myopowers à Besançon travaille sur un sphincter urinaire artificiel pour traite</td><td></td><td><a class="offre-lien" href="https://candidat.francetravail.fr/offres/recherche/detail/211YJZH" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="développeur c# .net - alternance h/f evoriel châtillon-le-duc c#, .net, asp.net, sql, git fullstack"><td></td><td>Fullstack</td><td>Développeur C# .Net - Alternance H/F</td><td>Evoriel</td><td>Châtillon-le-Duc</td><td>Bac+2 à Bac+5</td><td>Hellowork</td><td>Développement d&#x27;applications métier en C#/.NET au sein de l&#x27;équipe IT, participation aux tests, à la qualité du code et à l&#x27;intégration continue en environnement agile.</td><td>C#, .NET, ASP.NET, SQL, Git</td><td><a class="offre-lien" href="https://www.hellowork.com/fr-fr/emplois/80834020.html" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr><td colspan="10" class="categorie" style="background:#5C3D00">Admin Système &amp; Support IT</td></tr><tr class="" data-recherche="apprenti·e administrateur - administratrice de systèmes et réseaux h/f école nationale des greffes dijon windows, parc informatique, environnement numérique de travail, supervision réseaux, serveurs admin système &amp; support it"><td></td><td>Admin Système &amp; Support IT</td><td>Apprenti·e Administrateur - Administratrice de Systèmes et Réseaux H/F</td><td>École Nationale des Greffes</td><td>Dijon</td><td>Bac+2 à Bac+5</td><td>Hellowork</td><td>Support informatique : déploiement et maintenance du parc informatique, gestion de l&#x27;environnement numérique de travail, assistance aux infrastructures et supervision des réseaux.</td><td>Windows, parc informatique, environnement numérique de travail, supervision réseaux, serveurs</td><td><a class="offre-lien" href="https://www.hellowork.com/fr-fr/emplois/81303467.html" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr></tbody></table>
+  </div>
 </main>
 <footer>Généré automatiquement — CODA. Offres issues de sources publiques, non garanties.</footer>
 <script>
