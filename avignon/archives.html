@@ -30,6 +30,8 @@ nav a {
   padding: .3rem .6rem; border-radius: 4px;
 }
 nav a.actif { background: var(--bleu); color: #fff; }
+nav a.rss { margin-left: auto; color: var(--ambre); border: 1px solid var(--ambre); }
+nav a.rss:hover { background: var(--ambre); color: #fff; }
 main { padding: 1rem 1.5rem 3rem; max-width: 1200px; margin: 0 auto; }
 #recherche {
   width: 100%; max-width: 420px; padding: .5rem .7rem; margin: 1rem 0;
@@ -63,6 +65,7 @@ footer { color: var(--gris); font-size: .8rem; padding: 1.5rem; text-align: cent
 <nav>
   <a href="index.html" class="">Offres actives</a>
   <a href="archives.html" class="actif">Archives (clôturées)</a>
+  <a href="feed.xml" class="rss" title="S'abonner via un lecteur RSS">📡 Flux RSS</a>
 </nav>
 <main>
   <h2>Offres clôturées / expirées</h2>
