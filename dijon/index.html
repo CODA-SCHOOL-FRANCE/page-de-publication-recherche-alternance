@@ -9,21 +9,14 @@
 <style>
 :root {
   --bleu: #1A3A6B; --bleu-clair: #EEF3FB; --gris: #5B6270;
-  --jaune-new: #FFF3B8; --ambre: #FF6F00; --bordure: #E3E6EC; --zebra: #F7F9FC;
-  --bg: #FFFFFF; --texte: #14161B; --surface: #FFFFFF;
-  --ombre: 0 1px 2px rgba(16,24,40,.06), 0 1px 6px rgba(16,24,40,.06);
-  --rayon: 12px;
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bleu: #7FA8F2; --bleu-clair: #16233D; --gris: #9AA2B1;
-    --jaune-new: #4A3C10; --ambre: #FFA557; --bordure: #262B35; --zebra: #191D25;
-    --bg: #0E1015; --texte: #E7E9EE; --surface: #14171E;
-    --ombre: 0 1px 2px rgba(0,0,0,.4), 0 4px 14px rgba(0,0,0,.35);
-  }
+  --jaune-new: #FFF3B8; --ambre: #FF6F00; --bordure: #E3E6EC;
+  --bg: #F5F7FA; --texte: #14161B; --surface: #FFFFFF;
+  --ombre: 0 1px 2px rgba(16,24,40,.05), 0 2px 8px rgba(16,24,40,.06);
+  --ombre-hover: 0 4px 10px rgba(16,24,40,.10), 0 2px 4px rgba(16,24,40,.06);
+  --rayon: 14px;
 }
 * { box-sizing: border-box; }
-html { color-scheme: light dark; }
+html { color-scheme: light; }
 body {
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   margin: 0; color: var(--texte); background: var(--bg); -webkit-font-smoothing: antialiased;
@@ -50,39 +43,54 @@ nav a.rss {
   margin-left: auto; color: var(--ambre); border: 1px solid var(--ambre); background: transparent;
 }
 nav a.rss:hover { background: var(--ambre); color: #fff; }
-main { padding: 1.6rem 1.75rem 3rem; max-width: 1200px; margin: 0 auto; }
+main { padding: 1.6rem 1.75rem 3rem; max-width: 1280px; margin: 0 auto; }
 main h2 { font-size: 1.05rem; font-weight: 700; margin: 0 0 .8rem; }
 #recherche {
-  width: 100%; max-width: 420px; padding: .6rem .85rem; margin: 0 0 1.3rem;
+  width: 100%; max-width: 420px; padding: .6rem .85rem; margin: 0 0 1.5rem;
   border: 1px solid var(--bordure); border-radius: 8px; font-size: .95rem;
   background: var(--surface); color: var(--texte);
 }
 #recherche:focus { outline: 2px solid var(--bleu); outline-offset: 1px; }
-.tableau-scroll {
-  overflow-x: auto; border-radius: var(--rayon); box-shadow: var(--ombre);
-  border: 1px solid var(--bordure); -webkit-overflow-scrolling: touch;
+.groupe { margin-bottom: 1.8rem; }
+.groupe-titre {
+  display: flex; align-items: center; gap: .55rem; margin: 0 0 .85rem;
+  font-size: .82rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
 }
-td.categorie {
-  color: #fff; font-weight: 700; padding: .55rem .9rem; font-size: .9rem;
+.groupe-titre .pastille {
+  width: .6rem; height: .6rem; border-radius: 50%; flex: none;
 }
-table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: .87rem; background: var(--surface); }
-th, td {
-  border-bottom: 1px solid var(--bordure); padding: .65rem .75rem; text-align: left;
-  vertical-align: top;
+.grille-offres {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 1rem;
 }
-th {
-  background: var(--bleu); color: #fff; font-size: .74rem; font-weight: 600;
-  text-transform: uppercase; letter-spacing: .04em;
+.carte-offre {
+  position: relative; background: var(--surface); border: 1px solid var(--bordure);
+  border-left: 4px solid var(--accent, var(--bleu)); border-radius: var(--rayon);
+  padding: 1rem 1.1rem; box-shadow: var(--ombre); transition: box-shadow .15s ease, transform .15s ease;
+  display: flex; flex-direction: column; gap: .5rem;
 }
-tbody tr:nth-child(even) td { background: var(--zebra); }
-tbody tr:hover td { background: var(--bleu-clair); }
-tr.new td { background: var(--jaune-new) !important; }
+.carte-offre:hover { box-shadow: var(--ombre-hover); transform: translateY(-2px); }
+.carte-offre.new { background: linear-gradient(180deg, var(--jaune-new), var(--surface) 60%); }
+.carte-titre { margin: 0; font-size: 1rem; font-weight: 700; padding-right: 3.2rem; }
+.carte-sous { margin: 0; color: var(--gris); font-size: .85rem; }
+.carte-tags { display: flex; flex-wrap: wrap; gap: .35rem; }
+.tag {
+  display: inline-block; background: var(--bleu-clair); color: var(--bleu);
+  font-size: .72rem; font-weight: 600; padding: .2rem .55rem; border-radius: 999px;
+  white-space: nowrap;
+}
+.tag.tag-gris { background: #EEF0F3; color: var(--gris); }
+.carte-resume { margin: 0; font-size: .87rem; color: #333; line-height: 1.4; }
+.carte-lien {
+  margin-top: auto; align-self: flex-start; color: var(--bleu); font-weight: 700;
+  font-size: .85rem; text-decoration: none; padding-top: .3rem;
+}
+.carte-lien:hover { text-decoration: underline; }
+.carte-sans-lien { color: var(--gris); font-size: .85rem; font-style: italic; }
 .badge-new {
-  background: var(--ambre); color: #fff; font-weight: 700; font-size: .68rem;
-  padding: .2rem .5rem; border-radius: 999px; white-space: nowrap;
+  position: absolute; top: .8rem; right: .9rem; background: var(--ambre); color: #fff;
+  font-weight: 700; font-size: .66rem; padding: .2rem .5rem; border-radius: 999px;
+  white-space: nowrap;
 }
-a.offre-lien { color: var(--bleu); font-weight: 600; text-decoration: none; }
-a.offre-lien:hover { text-decoration: underline; }
 .vide { color: var(--gris); font-style: italic; padding: 1.5rem 0; }
 footer { color: var(--gris); font-size: .8rem; padding: 2rem 1.75rem; text-align: center; }
 </style>
@@ -100,16 +108,14 @@ footer { color: var(--gris); font-size: .8rem; padding: 2rem 1.75rem; text-align
 <main>
   <h2>Offres actives</h2>
   <input id="recherche" type="search" placeholder="Filtrer par poste, entreprise, ville, techno…" autocomplete="off">
-  <div class="tableau-scroll">
-  <table><thead><tr><th></th><th>Profil</th><th>Poste</th><th>Entreprise</th><th>Ville</th><th>Niveau</th><th>Source</th><th>Résumé</th><th>Technologies</th><th>Lien</th></tr></thead><tbody><tr><td colspan="10" class="categorie" style="background:#155724">Fullstack/Backend</td></tr><tr class="" data-recherche="alternant r&amp;amp;d logiciel embarqué (h/f) carvolix besançon  backend"><td></td><td>Backend</td><td>Alternant R&amp;amp;D Logiciel Embarqué (H/F)</td><td>CARVOLIX</td><td>Besançon</td><td></td><td>La Bonne Alternance</td><td>Le groupe Carvolix regroupe différents programmes qui développent et fabriquent des dispositifs médicaux implantables innovants.  Le site de Myopowers à Besançon travaille sur un sphincter urinaire artificiel pour traite</td><td></td><td><a class="offre-lien" href="https://candidat.francetravail.fr/offres/recherche/detail/211YJZH" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr class="" data-recherche="développeur c# .net - alternance h/f evoriel châtillon-le-duc c#, .net, asp.net, sql, git fullstack"><td></td><td>Fullstack</td><td>Développeur C# .Net - Alternance H/F</td><td>Evoriel</td><td>Châtillon-le-Duc</td><td>Bac+2 à Bac+5</td><td>Hellowork</td><td>Développement d&#x27;applications métier en C#/.NET au sein de l&#x27;équipe IT, participation aux tests, à la qualité du code et à l&#x27;intégration continue en environnement agile.</td><td>C#, .NET, ASP.NET, SQL, Git</td><td><a class="offre-lien" href="https://www.hellowork.com/fr-fr/emplois/80834020.html" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr><tr><td colspan="10" class="categorie" style="background:#5C3D00">Admin Système &amp; Support IT</td></tr><tr class="" data-recherche="apprenti·e administrateur - administratrice de systèmes et réseaux h/f école nationale des greffes dijon windows, parc informatique, environnement numérique de travail, supervision réseaux, serveurs admin système &amp; support it"><td></td><td>Admin Système &amp; Support IT</td><td>Apprenti·e Administrateur - Administratrice de Systèmes et Réseaux H/F</td><td>École Nationale des Greffes</td><td>Dijon</td><td>Bac+2 à Bac+5</td><td>Hellowork</td><td>Support informatique : déploiement et maintenance du parc informatique, gestion de l&#x27;environnement numérique de travail, assistance aux infrastructures et supervision des réseaux.</td><td>Windows, parc informatique, environnement numérique de travail, supervision réseaux, serveurs</td><td><a class="offre-lien" href="https://www.hellowork.com/fr-fr/emplois/81303467.html" target="_blank" rel="noopener noreferrer">🔗 Voir l'offre</a></td></tr></tbody></table>
-  </div>
+  <section class="groupe"><h3 class="groupe-titre"><span class="pastille" style="background:#155724"></span>Fullstack/Backend</h3><div class="grille-offres"><article class="carte-offre" style="--accent:#155724" data-recherche="alternant r&amp;amp;d logiciel embarqué (h/f) carvolix besançon  backend"><h4 class="carte-titre">Alternant R&amp;amp;D Logiciel Embarqué (H/F)</h4><p class="carte-sous">CARVOLIX · Besançon · La Bonne Alternance</p><div class="carte-tags"></div><p class="carte-resume">Le groupe Carvolix regroupe différents programmes qui développent et fabriquent des dispositifs médicaux implantables innovants.  Le site de Myopowers à Besançon travaille sur un sphincter urinaire artificiel pour traite</p><a class="carte-lien" href="https://candidat.francetravail.fr/offres/recherche/detail/211YJZH" target="_blank" rel="noopener noreferrer">Voir l'offre →</a></article><article class="carte-offre" style="--accent:#155724" data-recherche="développeur c# .net - alternance h/f evoriel châtillon-le-duc c#, .net, asp.net, sql, git fullstack"><h4 class="carte-titre">Développeur C# .Net - Alternance H/F</h4><p class="carte-sous">Evoriel · Châtillon-le-Duc · Hellowork</p><div class="carte-tags"><span class="tag">Bac+2 à Bac+5</span><span class="tag tag-gris">C#</span><span class="tag tag-gris">.NET</span><span class="tag tag-gris">ASP.NET</span><span class="tag tag-gris">SQL</span><span class="tag tag-gris">Git</span></div><p class="carte-resume">Développement d&#x27;applications métier en C#/.NET au sein de l&#x27;équipe IT, participation aux tests, à la qualité du code et à l&#x27;intégration continue en environnement agile.</p><a class="carte-lien" href="https://www.hellowork.com/fr-fr/emplois/80834020.html" target="_blank" rel="noopener noreferrer">Voir l'offre →</a></article></div></section><section class="groupe"><h3 class="groupe-titre"><span class="pastille" style="background:#5C3D00"></span>Admin Système &amp; Support IT</h3><div class="grille-offres"><article class="carte-offre" style="--accent:#5C3D00" data-recherche="apprenti·e administrateur - administratrice de systèmes et réseaux h/f école nationale des greffes dijon windows, parc informatique, environnement numérique de travail, supervision réseaux, serveurs admin système &amp; support it"><h4 class="carte-titre">Apprenti·e Administrateur - Administratrice de Systèmes et Réseaux H/F</h4><p class="carte-sous">École Nationale des Greffes · Dijon · Hellowork</p><div class="carte-tags"><span class="tag">Bac+2 à Bac+5</span><span class="tag tag-gris">Windows</span><span class="tag tag-gris">parc informatique</span><span class="tag tag-gris">environnement numérique de travail</span><span class="tag tag-gris">supervision réseaux</span><span class="tag tag-gris">serveurs</span></div><p class="carte-resume">Support informatique : déploiement et maintenance du parc informatique, gestion de l&#x27;environnement numérique de travail, assistance aux infrastructures et supervision des réseaux.</p><a class="carte-lien" href="https://www.hellowork.com/fr-fr/emplois/81303467.html" target="_blank" rel="noopener noreferrer">Voir l'offre →</a></article></div></section>
 </main>
 <footer>Généré automatiquement — CODA. Offres issues de sources publiques, non garanties.</footer>
 <script>
 document.getElementById('recherche').addEventListener('input', function (e) {
   var q = e.target.value.trim().toLowerCase();
-  document.querySelectorAll('tbody tr[data-recherche]').forEach(function (tr) {
-    tr.style.display = tr.getAttribute('data-recherche').includes(q) ? '' : 'none';
+  document.querySelectorAll('.carte-offre[data-recherche]').forEach(function (carte) {
+    carte.style.display = carte.getAttribute('data-recherche').includes(q) ? '' : 'none';
   });
 });
 </script>
