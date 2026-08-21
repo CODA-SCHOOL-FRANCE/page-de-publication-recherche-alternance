@@ -4,7 +4,7 @@
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
   <title>Veille Alternance Tech — Orleans-CVL — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-08-20T00:00:00Z</updated>
+  <updated>2026-08-21T00:00:00Z</updated>
   <entry>
     <id>tag:coda.school,2026:offre-5fb4cff0877213f5</id>
     <title>Gestionnaire Informatique (H/F) — CAISSE D ALLOCATIONS FAMILIALES DU LOIR ET CHER (Blois)</title>
@@ -27,15 +27,15 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/78853421.html"/>
     <updated>2026-08-14T00:00:00Z</updated>
     <published>2026-08-14T00:00:00Z</published>
-    <summary>Développe de nouveaux systèmes de paiement pour des clients e-commerce et contribue à la performance, la sécurité et la stabilité de la plateforme, en environnement Agile/DevOps. — Bac+2 à Bac+5 — .NET, CI/CD</summary>
+    <summary>Développe de nouveaux usages de paiement pour la plateforme e-commerce et contribue à la performance, la stabilité et la sécurité de la solution, dans un environnement Agile/DevOps. — Bac+2 à Bac+5 — .NET, CI/CD, Agile</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-d4194f7a979250b5</id>
-    <title>Alternance - Ingénieur DevOps - Solution de Paiement en Ligne Tours 37 Fr H/F — Worldline (Tours)</title>
+    <title>Alternance - Ingénieur DevOps - Solution de Paiement en Ligne H/F — Worldline (Tours)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/78862342.html"/>
     <updated>2026-08-14T00:00:00Z</updated>
     <published>2026-08-14T00:00:00Z</published>
-    <summary>Développe de nouveaux usages de paiement pour la plateforme e-commerce et contribue à sa performance, sa stabilité et sa sécurité, de l&#x27;analyse à l&#x27;intégration client. — Bac+2 à Bac+5 — .NET, CI/CD, Agile/DevOps</summary>
+    <summary>Développe de nouveaux usages de paiement pour la plateforme e-commerce et contribue à la performance, la stabilité et la sécurité de la solution, dans un environnement Agile/DevOps. — Bac+2 à Bac+5 — .NET, CI/CD, Agile</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-ef8ed3a35230d92f</id>
@@ -43,23 +43,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/78862341.html"/>
     <updated>2026-08-14T00:00:00Z</updated>
     <published>2026-08-14T00:00:00Z</published>
-    <summary>Développe de nouveaux usages de paiement pour la plateforme e-commerce et contribue à sa performance, sa stabilité et sa sécurité, de l&#x27;analyse à l&#x27;intégration client. — Bac+2 à Bac+5 — .NET, CI/CD, Agile/DevOps</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-3dd5979098362081</id>
-    <title>Alternance - Ingénieur Qualité Logiciels H/F — KNDS (Bourges)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/79516653.html"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Apprenti qualité logiciels : suivi et mise en place des processus de développement Munitronique, participation aux programmes de qualification et de validation des logiciels. — Bac+5 — logiciel embarqué</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-c2fd40cec0f0f7a1</id>
-    <title>Alternance - Ingénieur Qualité Logiciels H/F — Nexter (KNDS France) (Bourges)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/76887776.html"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Apprenti qualité logiciels : suivi et mise en place des processus de développement Munitronique, participation aux programmes de qualification et de validation des logiciels. — Bac+5 — logiciel embarqué</summary>
+    <summary>Développe de nouveaux usages de paiement pour la plateforme e-commerce et contribue à la performance, la stabilité et la sécurité de la solution, dans un environnement Agile/DevOps. — Bac+2 à Bac+5 — .NET, CI/CD, Agile</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-df2c045efba8e7f6</id>
@@ -67,31 +51,47 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/81450956.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Détection, surveillance et analyse des alertes de sécurité informatique ; gestion des incidents, identification des menaces et suivi des indicateurs de compromission (IOC). — Bac+5 — Détection de menaces, analyse de vulnérabilités, gestion des incidents</summary>
+    <summary>Détection et analyse des incidents de sécurité informatique, mise en œuvre d&#x27;outils de sécurité et tests réguliers pour protéger l&#x27;infrastructure IT. — Bac+5 — Détection de menaces, analyse de vulnérabilités, gestion des incidents</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-3dd5979098362081</id>
+    <title>Alternance - Ingénieur Qualité Logiciels H/F — KNDS France (Bourges)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/79516653.html"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Suivi et mise en place des processus de développement logiciel (Munitronique), participation aux programmes de qualification et aux tâches techniques de développement. — Bac+5 — logiciel embarqué</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-c2fd40cec0f0f7a1</id>
+    <title>Alternance - Ingénieur Qualité Logiciels H/F — KNDS France (Nexter) (Bourges)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/76887776.html"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Suivi et mise en place des processus de développement logiciel, participation aux programmes de développement et de qualification, intérêt pour le logiciel embarqué. — Bac+5 — logiciel embarqué</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-16946204d77f8674</id>
-    <title>Alternance - Développeur DEVOPS (F/H) — Worldline (Blois)</title>
+    <title>Alternance - Développeur DevOps H/F — Worldline (Blois)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/77567553.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Développe en Java/VueJS, réalise les revues de code (Sonar) et les tests unitaires/de bout en bout, et coordonne les portages entre environnements de développement et de recette. — Bac+2 à Bac+5 — Java, VueJS, Sonar, JIRA</summary>
+    <summary>Développement en Java avec VueJS, revue de code (Sonar), amélioration continue et exécution de tests unitaires et de bout en bout. — Bac+2 à Bac+5 — Java, VueJS, Sonar, JIRA</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-37357e380fc48bc3</id>
-    <title>Alternance - Développeur DEVOPS (F/H) — Worldline (Blois)</title>
+    <title>Alternance - Développeur DevOps Blois 41 Fr H/F — Worldline (Blois)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/77574909.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Développe une application web pour institutions bancaires au sein de la Squad Carte Commerciale : revues de code (Sonar), tests unitaires/E2E, coordination des déploiements. — Bac+2 à Bac+5 — Java, VueJS, Sonar, JIRA</summary>
+    <summary>Développement en Java avec VueJS, revue de code (Sonar), gestion des cahiers de recette et déploiements multi-environnements. — Bac+2 à Bac+5 — Java, VueJS, Sonar, JIRA</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-f55f0fd53e78ccf2</id>
-    <title>Alternant Support Utilisateurs &amp; Déploiement SAP S/4Hana H/F — Aalberts HFC Comap SA (Chécy)</title>
+    <title>Alternant Support Utilisateurs &amp; Déploiement SAP S/4HANA H/F — Aalberts HFC Comap SA (Chécy)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82056437.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Accompagne la migration de SAP ECC vers S/4HANA : support aux utilisateurs, création de supports de formation et conduite du changement, en lien avec l&#x27;équipe projet SAP. — Bac+3 à Bac+5 — SAP ECC, SAP S/4HANA</summary>
+    <summary>Accompagne les équipes lors de la migration vers SAP S/4HANA : formation des utilisateurs et facilitation de l&#x27;adoption de la nouvelle solution ERP. — Bac+3 à Bac+5 — SAP S/4HANA, SAP ECC, ERP</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-051464675d3510a3</id>

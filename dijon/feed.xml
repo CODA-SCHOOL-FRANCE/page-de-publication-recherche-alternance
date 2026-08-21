@@ -4,22 +4,14 @@
   <id>tag:coda.school,2026:veille-dijon-bfc</id>
   <title>Veille Alternance Tech — Dijon-BFC — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-08-20T00:00:00Z</updated>
-  <entry>
-    <id>tag:coda.school,2026:offre-3ae9d476c2c28056</id>
-    <title>Développeur - Développeuse IA H/F — France Travail (Besançon)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/82342967.html"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <published>2026-08-17T00:00:00Z</published>
-    <summary>Développe des solutions informatiques intégrant de l&#x27;intelligence artificielle (machine learning, NLP, vision, séries temporelles) et conçoit des applicatifs testables et adaptables pour France Travail. — Bac+2 à Bac+5 — Python, Machine Learning, NLP, Vision par ordinateur, séries temporelles</summary>
-  </entry>
+  <updated>2026-08-21T00:00:00Z</updated>
   <entry>
     <id>tag:coda.school,2026:offre-a678efd41e336474</id>
     <title>Apprenti·e Administrateur - Administratrice de Systèmes et Réseaux H/F — École Nationale des Greffes (Dijon)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/81303467.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>L&#x27;apprenti participe à l&#x27;administration des systèmes et réseaux de l&#x27;établissement public (Ministère de la Justice), en assurant le support et la maintenance de l&#x27;infrastructure informatique. — Bac+2 à Bac+5 — Windows, parc informatique, environnement numérique de travail, supervision réseaux, serveurs</summary>
+    <summary>Participation au support informatique, au déploiement et à la maintenance du parc informatique, ainsi qu&#x27;à la supervision des réseaux et infrastructures de l&#x27;établissement. — Bac+2 à Bac+5 — Windows, parc informatique, environnement numérique de travail, supervision réseaux, serveurs</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-c2318c5f755ffa17</id>
@@ -35,6 +27,6 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/80834020.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>L&#x27;alternant intègre une équipe de développement pour concevoir et réaliser des applications métiers en environnement .NET, en participant au développement, à l&#x27;analyse et à la réalisation de fonctionnalités dans un cadre agile. — Bac+2 à Bac+5 — C#, .NET, ASP.NET, SQL, API, Git</summary>
+    <summary>Développement d&#x27;applications en C#/.NET au sein d&#x27;une équipe agile : réalisation d&#x27;évolutions fonctionnelles et de correctifs, contribution à la qualité du code. — Bac+2 à Bac+5 — C#, .NET, ASP.NET, SQL, Git</summary>
   </entry>
 </feed>
