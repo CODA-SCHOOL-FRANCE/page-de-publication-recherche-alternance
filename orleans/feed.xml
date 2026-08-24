@@ -4,22 +4,14 @@
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
   <title>Veille Alternance Tech — Orleans-CVL — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-08-21T00:00:00Z</updated>
-  <entry>
-    <id>tag:coda.school,2026:offre-5fb4cff0877213f5</id>
-    <title>Gestionnaire Informatique (H/F) — CAISSE D ALLOCATIONS FAMILIALES DU LOIR ET CHER (Blois)</title>
-    <link href="https://candidat.francetravail.fr/offres/recherche/detail/211YFNL"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <published>2026-08-19T00:00:00Z</published>
-    <summary>Rejoignez la Caf de Loir-et-Cher et donnez du sens à votre carrière ! Nous recrutons un Gestionnaire informatique (H/F) en Alternance  La Caisse d&#x27;Allocations Familiales de Blois, acteur clé de la Sécurité Sociale, œuvre —  — </summary>
-  </entry>
+  <updated>2026-08-24T00:00:00Z</updated>
   <entry>
     <id>tag:coda.school,2026:offre-0df2c3132ac67ea2</id>
-    <title>Développeur(se) IT / Assistant(e) Chef de projet (45)  H/F — L&#x27;industrie recrute (Saint-Jean-De-Braye)</title>
+    <title>Développeur(se) IT / Assistant(e) Chef de projet (45) H/F — Leroy-Somer (groupe NIDEC) (Saint-Jean-de-Braye)</title>
     <link href="https://www.meteojob.com/jobs/55489605?utm_source=labonnealternance&amp;utm_medium=aggregator-free&amp;utm_campaign=alternance"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <published>2026-08-19T00:00:00Z</published>
-    <summary>&lt;p&gt;Leroy-Somer, filiale du groupe international NIDEC, est spécialiste mondial en alternateurs et systèmes d&#x27;entraînement électromécanique et électronique.&lt;/p&gt; &lt;p&gt;L&#x27;entreprise vous offre l&#x27;opportunité de vous épanouir et — Bac+2 — </summary>
+    <summary>Participe aux projets informatiques du service IT en développant des outils internes et des interfaces web, avec un appui à la gestion de projet et au suivi d&#x27;indicateurs. — Bac+2 — HTML5, CSS3, JavaScript, Lazarus/Delphi, SQL</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-43df7a5937bc6ae1</id>
@@ -27,23 +19,23 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/78853421.html"/>
     <updated>2026-08-14T00:00:00Z</updated>
     <published>2026-08-14T00:00:00Z</published>
-    <summary>Développe de nouveaux usages de paiement pour la plateforme e-commerce et contribue à la performance, la stabilité et la sécurité de la solution, dans un environnement Agile/DevOps. — Bac+2 à Bac+5 — .NET, CI/CD, Agile</summary>
+    <summary>Développe de nouvelles fonctionnalités de paiement en ligne pour des clients e-commerce et contribue à la performance et à la sécurité de la plateforme, dans un environnement Agile/DevOps. — Bac+2 à Bac+5 — .NET, CI/CD, Agile</summary>
   </entry>
   <entry>
-    <id>tag:coda.school,2026:offre-d4194f7a979250b5</id>
-    <title>Alternance - Ingénieur DevOps - Solution de Paiement en Ligne H/F — Worldline (Tours)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/78862342.html"/>
-    <updated>2026-08-14T00:00:00Z</updated>
-    <published>2026-08-14T00:00:00Z</published>
-    <summary>Développe de nouveaux usages de paiement pour la plateforme e-commerce et contribue à la performance, la stabilité et la sécurité de la solution, dans un environnement Agile/DevOps. — Bac+2 à Bac+5 — .NET, CI/CD, Agile</summary>
+    <id>tag:coda.school,2026:offre-3dd5979098362081</id>
+    <title>Alternance - Ingénieur Qualité Logiciels H/F — KNDS (Bourges)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/79516653.html"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Participe aux processus de qualité logicielle au sein du département Munitronics : suivi de la mise en œuvre des processus de développement et gestion des tâches techniques de validation et qualification logicielle. — Bac+5 — Logiciel embarqué</summary>
   </entry>
   <entry>
-    <id>tag:coda.school,2026:offre-ef8ed3a35230d92f</id>
-    <title>Alternance - Ingénieur DevOps - Solution de Paiement en Ligne Tours 37 Fr H/F — Worldline (Tours)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/78862341.html"/>
-    <updated>2026-08-14T00:00:00Z</updated>
-    <published>2026-08-14T00:00:00Z</published>
-    <summary>Développe de nouveaux usages de paiement pour la plateforme e-commerce et contribue à la performance, la stabilité et la sécurité de la solution, dans un environnement Agile/DevOps. — Bac+2 à Bac+5 — .NET, CI/CD, Agile</summary>
+    <id>tag:coda.school,2026:offre-c2fd40cec0f0f7a1</id>
+    <title>Alternance - Ingénieur Qualité Logiciels H/F — Nexter (KNDS France) (Bourges)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/76887776.html"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Participe aux processus de qualité logicielle au sein du département Munitronics : mise en œuvre et suivi des processus de développement, gestion des tâches techniques liées au développement et à la qualification logicielle. — Bac+5 — Logiciel embarqué</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-df2c045efba8e7f6</id>
@@ -51,23 +43,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/81450956.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Détection et analyse des incidents de sécurité informatique, mise en œuvre d&#x27;outils de sécurité et tests réguliers pour protéger l&#x27;infrastructure IT. — Bac+5 — Détection de menaces, analyse de vulnérabilités, gestion des incidents</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-3dd5979098362081</id>
-    <title>Alternance - Ingénieur Qualité Logiciels H/F — KNDS France (Bourges)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/79516653.html"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Suivi et mise en place des processus de développement logiciel (Munitronique), participation aux programmes de qualification et aux tâches techniques de développement. — Bac+5 — logiciel embarqué</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-c2fd40cec0f0f7a1</id>
-    <title>Alternance - Ingénieur Qualité Logiciels H/F — KNDS France (Nexter) (Bourges)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/76887776.html"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Suivi et mise en place des processus de développement logiciel, participation aux programmes de développement et de qualification, intérêt pour le logiciel embarqué. — Bac+5 — logiciel embarqué</summary>
+    <summary>Met en œuvre des outils de sécurité et participe à la détection et à l&#x27;analyse d&#x27;incidents : supervision des menaces, audits de sécurité, tests d&#x27;intrusion réguliers et support à la conformité. — Bac+5 — SOC, détection d&#x27;incidents, tests d&#x27;intrusion, ISO</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-16946204d77f8674</id>
@@ -75,15 +51,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/77567553.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Développement en Java avec VueJS, revue de code (Sonar), amélioration continue et exécution de tests unitaires et de bout en bout. — Bac+2 à Bac+5 — Java, VueJS, Sonar, JIRA</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-37357e380fc48bc3</id>
-    <title>Alternance - Développeur DevOps Blois 41 Fr H/F — Worldline (Blois)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/77574909.html"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Développement en Java avec VueJS, revue de code (Sonar), gestion des cahiers de recette et déploiements multi-environnements. — Bac+2 à Bac+5 — Java, VueJS, Sonar, JIRA</summary>
+    <summary>Développe une application web de gestion de cartes bancaires commerciales au sein de la Commercial Card Squad, en contribuant à la modernisation des solutions fintech. — Bac+2 à Bac+5 — Java, VueJS, Sonar, JIRA</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-f55f0fd53e78ccf2</id>
@@ -91,7 +59,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82056437.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Accompagne les équipes lors de la migration vers SAP S/4HANA : formation des utilisateurs et facilitation de l&#x27;adoption de la nouvelle solution ERP. — Bac+3 à Bac+5 — SAP S/4HANA, SAP ECC, ERP</summary>
+    <summary>Accompagne les équipes dans la migration SAP ECC vers S/4HANA en assurant le support aux utilisateurs et la documentation de formation, en coordination avec les équipes opérationnelles et le groupe projet. — Bac+3 à Bac+5 — SAP S/4HANA, SAP ECC, ERP</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-051464675d3510a3</id>
@@ -99,6 +67,6 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/81982263.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Assistance utilisateur de premier niveau, maintenance et déploiement du parc informatique, gestion des habilitations et participation aux projets de migration vers le cloud. — Bac+2 — Office 365, Teams, SharePoint, Cloud</summary>
+    <summary>Assure le support utilisateur de premier niveau et la gestion de l&#x27;infrastructure informatique (déploiement de matériel, gestion des accès) et participe à des projets nationaux comme la migration vers Teams/SharePoint. — Bac+2 à Bac+4 — Office 365, Teams, SharePoint, Cloud</summary>
   </entry>
 </feed>
