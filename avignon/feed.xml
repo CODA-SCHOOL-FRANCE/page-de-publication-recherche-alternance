@@ -4,22 +4,14 @@
   <id>tag:coda.school,2026:veille-avignon-sud</id>
   <title>Veille Alternance Tech — Avignon-Sud — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-08-25T00:00:00Z</updated>
+  <updated>2026-08-26T00:00:00Z</updated>
   <entry>
     <id>tag:coda.school,2026:offre-5e621dde1561205f</id>
     <title>Technicien Réseaux Matériels &amp; Maintenance H/F — Transports Chalavan et Duc (Montélimar)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82596334.html"/>
     <updated>2026-08-25T00:00:00Z</updated>
     <published>2026-08-25T00:00:00Z</published>
-    <summary>Maintenance des équipements informatiques et diagnostic des incidents simples, installation et configuration des postes de travail, accompagnement des utilisateurs au quotidien. — Bac+2 à Bac+3 — Windows, TCP/IP, Wi-Fi</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-db4b7c96ea097c37</id>
-    <title>Alternance - Data Analyste H/F — Crédit Agricole Alpes Provence (Aix-en-Provence)</title>
-    <link href="https://recrutement.ca-alpesprovence.fr/jobs/8249555-alternance-data-analyste-h-f"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <published>2026-08-24T00:00:00Z</published>
-    <summary>Participation à l&#x27;analyse des besoins métier et à l&#x27;alimentation, la fiabilisation et la structuration des données ; contribution au développement de tableaux de bord et de solutions de reporting. — Bac+2 — SQL Server, Teradata, SAP BusinessObjects, Microstrategy, Git, GitLab, SSIS, Transact SQL</summary>
+    <summary>Maintenance du parc informatique et support aux utilisateurs, incluant diagnostics d&#x27;incidents, installation de postes de travail et gestion des équipements réseau. — Bac+2 à Bac+3 — TCP/IP, Wi-Fi, brassage, Windows, maintenance PC et périphériques</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a075c167d9c53a57</id>
@@ -27,7 +19,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82536277.html"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <published>2026-08-24T00:00:00Z</published>
-    <summary>Participation à la conception, au développement et à l&#x27;évolution d&#x27;applications web destinées aux consommateurs et partenaires, principalement en PHP avec contributions front-end. — Bac+3 à Bac+4 — PHP, HTML, CSS, JavaScript, SQL/MySQL, API</summary>
+    <summary>Participation à la conception, au développement et à l&#x27;évolution d&#x27;applications web destinées aux consommateurs, avec montée en autonomie progressive. — Bac+3 à Bac+4 — PHP, HTML/CSS/JavaScript, SQL/MySQL, API</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-bda3c647997ce962</id>
@@ -35,7 +27,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82496038.html"/>
     <updated>2026-08-20T00:00:00Z</updated>
     <published>2026-08-20T00:00:00Z</published>
-    <summary>Au sein de la Direction des Systèmes d&#x27;Information, collaboration avec les équipes Systèmes, Réseaux, Sécurité et Bases de Données pour améliorer les infrastructures informatiques du groupe. — Bac+2 à Bac+5 — SGBD</summary>
+    <summary>Collaboration avec les équipes Systèmes, Réseaux, Sécurité et Bases de Données de la Direction Production/Infrastructures pour améliorer les infrastructures informatiques du groupe. — Bac+2 à Bac+5 — Systèmes, Réseaux, Sécurité, Bases de données (SGBD)</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-d8abf7dacf89d90b</id>
@@ -54,14 +46,6 @@
     <summary>Développement et maintenance d&#x27;outils informatiques internes (recueil des besoins, codage, tests, déploiement) tout en assurant la sécurité des données et la conformité RGPD/SSI. — Bac+2 à Bac+5 — VBA, Google Apps Script, Excel, Google Workspace, AppSheet</summary>
   </entry>
   <entry>
-    <id>tag:coda.school,2026:offre-3ce0435a869a9ce3</id>
-    <title>Alternant Développeur IA H/F — L&#x27;industrie recrute (Valence)</title>
-    <link href="https://www.meteojob.com/jobs/55659899?utm_source=labonnealternance&amp;utm_medium=aggregator-free&amp;utm_campaign=alternance"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <published>2026-08-19T00:00:00Z</published>
-    <summary>&lt;p&gt;Prêt pour de nouvelles aventures ? Embarquez pour Selha Group !&lt;/p&gt; &lt;p&gt;Selha Group, c&#x27;est plus de 1000 collaborateurs, répartis sur 5 sites en France et au Maroc, qui partagent une seule et même mission : apporter à n — Bac+5 — </summary>
-  </entry>
-  <entry>
     <id>tag:coda.school,2026:offre-bdfc73916da7b309</id>
     <title>Développeur full-stack en alternance (H/F) — PRO ARCHIVES (Nîmes)</title>
     <link href="https://candidat.francetravail.fr/offres/recherche/detail/212CNWN"/>
@@ -75,7 +59,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82445269.html"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <published>2026-08-19T00:00:00Z</published>
-    <summary>Contribution à la gouvernance et à la sécurité des systèmes d&#x27;information : analyse des politiques de sécurité et veille réglementaire européenne sur la protection des données. — Bac+4 à Bac+5 — Solutions IA agentiques, référentiels de gestion d&#x27;informations</summary>
+    <summary>Analyse et révision des politiques de sécurité, test de solutions IA pour questionnaires clients, et veille réglementaire européenne en sécurité et protection des données. — Bac+4/5 — Solutions IA agentiques, conformité réglementaire européenne, référentiels de données clients</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-681b065e7aea8691</id>
@@ -91,7 +75,15 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82399983.html"/>
     <updated>2026-08-18T00:00:00Z</updated>
     <published>2026-08-18T00:00:00Z</published>
-    <summary>Support informatique et maintenance des équipements, gestion des comptes utilisateurs et droits d&#x27;accès, contribution à la résolution d&#x27;incidents et à l&#x27;évolution de l&#x27;infrastructure réseau. — Bac+3 — Windows, Microsoft 365</summary>
+    <summary>Support informatique aux collaborateurs, gestion des postes et de l&#x27;infrastructure réseau, avec participation aux projets numériques et à la sensibilisation cybersécurité. — Bac+2 à Bac+5 — Windows, Réseaux, Microsoft 365, gestion de parc informatique</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-5cf82a4ab1bc045c</id>
+    <title>Alternance Développeur d&#x27;Outils &amp; Projets Informatiques H/F — Défi RH (Aix-en-Provence)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/81526522.html"/>
+    <updated>2026-08-17T00:00:00Z</updated>
+    <published>2026-08-17T00:00:00Z</published>
+    <summary>Automatisation de tâches et traitement de volumes de données via VBA et Google Apps Script, en appliquant les bonnes pratiques d&#x27;hygiène informatique. — Bac+2 à Bac+5 — VBA, Google Apps Script, Google Sheets</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a4012173e79f1402</id>
@@ -107,7 +99,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/78606946.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Support utilisateur (appels, assistance bureautique, ticketing ITIL) et préparation/maintien des équipements informatiques et mobiles, déploiement, configuration et gestion des accès réseau. — Bac+2 — Microsoft Office, ticketing ITIL, MDM, VPN/MPLS</summary>
+    <summary>Support utilisateurs (assistance téléphonique et dépannage), préparation et maintenance de postes et terminaux mobiles, administration de comptes et ressources réseau. — Bac+2 — Outils bureautiques Microsoft, ticketing ITIL, MDM, VPN/MPLS, messagerie d&#x27;entreprise</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-d524ce705092fb29</id>
@@ -115,7 +107,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/77783971.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Développement et modernisation d&#x27;une interface web pour une centrale de sécurité basée sur Linux embarqué, participation à la validation des systèmes de contrôle d&#x27;accès et d&#x27;intrusion. — Bac+3 à Bac+4 — C/C++, TypeScript, JavaScript, HTML, Linux embarqué, Buildroot, Jira, GitLab CI, Docker</summary>
+    <summary>Développement et amélioration de solutions de contrôle d&#x27;accès et d&#x27;intrusion, avec modernisation de l&#x27;interface web d&#x27;une centrale Linux embarquée et tests unitaires. — Bac+3 à Bac+4 — C/C++, TypeScript, JavaScript, HTML, Linux embarqué, Buildroot, GitLab CI, Docker</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-739dc92eb15d17ce</id>
@@ -123,7 +115,15 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82010163.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Développement et intégration d&#x27;applications web, maintenance de projets clients et correction de bugs, participation aux rituels agiles de l&#x27;agence. — Bac à Bac+4 — PHP, Symfony, WordPress/WooCommerce, PrestaShop, Shopify, HTML/CSS</summary>
+    <summary>Développement et intégration de sites web, maintenance de projets clients, correction de bugs et participation aux rituels agiles de l&#x27;équipe. — Bac+2 à Bac+4 — PHP, Symfony, WordPress/WooCommerce, PrestaShop, Shopify, HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-71f6625d70f6ef8f</id>
+    <title>Développeur Full-Stack en Alternance H/F — Pro Archives (Nîmes)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/82075105.html"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Développement de fonctionnalités web avec Laravel et React, maintenance des applications existantes et conception d&#x27;API, avec exploration de l&#x27;automatisation par IA. — Bac+3 à Bac+4 — PHP, Laravel, JavaScript, React, MySQL, API REST, Python, TypeScript, Git, Redis, Docker, AWS</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-dde6bcb08278b6da</id>
@@ -139,7 +139,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/76654864.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Au sein de la DSI, préparation du matériel de mobilité (téléphones, tablettes), formation des utilisateurs et gestion des stocks d&#x27;équipement. Support informatique quotidien auprès des collaborateurs. — Bac+2 — Support informatique, gestion de parc, relation fournisseurs</summary>
+    <summary>Préparation du matériel de mobilité, formation des utilisateurs et support informatique quotidien auprès des collaborateurs du groupe. — Bac+2 — Parc informatique, téléphonie et tablettes mobiles, gestion de stocks</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-530ba98af177aac8</id>
@@ -147,7 +147,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/81890749.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Support utilisateurs par traitement d&#x27;incidents et gestion du parc informatique, supervision de l&#x27;infrastructure et déploiement des outils collaboratifs. — Bac+2 — Windows, Office 365</summary>
+    <summary>Traitement des incidents utilisateurs, gestion du parc informatique, supervision de l&#x27;infrastructure et déploiement des nouveaux outils collaboratifs. — Bac+2 — Windows, Office 365, infrastructure informatique, outils collaboratifs</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-5bdeec1eb2941f03</id>
@@ -155,6 +155,6 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/79565681.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Pilotage de l&#x27;adoption des outils Google Workspace au sein de l&#x27;entreprise, accompagnement des utilisateurs dans la transition depuis les outils bureautiques traditionnels. — Bac+2 à Bac+4 — Google Workspace, IA/LLM, Agents IA</summary>
+    <summary>Accompagnement des utilisateurs dans l&#x27;adoption des solutions Google Workspace et des outils collaboratifs, avec remontée des difficultés aux équipes support. — Bac+2 à Bac+3 — Google Workspace, outils collaboratifs, LLM et agents IA</summary>
   </entry>
 </feed>
