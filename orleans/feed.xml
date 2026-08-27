@@ -4,30 +4,38 @@
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
   <title>Veille Alternance Tech — Orleans-CVL — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-08-26T00:00:00Z</updated>
+  <updated>2026-08-27T00:00:00Z</updated>
+  <entry>
+    <id>tag:coda.school,2026:offre-0df2c3132ac67ea2</id>
+    <title>Développeur(se) IT / Assistant(e) Chef de projet (45)  H/F — L&#x27;industrie recrute (Saint-Jean-De-Braye)</title>
+    <link href="https://www.meteojob.com/jobs/55489605?utm_source=labonnealternance&amp;utm_medium=aggregator-free&amp;utm_campaign=alternance"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <published>2026-08-19T00:00:00Z</published>
+    <summary>&lt;p&gt;Leroy-Somer, filiale du groupe international NIDEC, est spécialiste mondial en alternateurs et systèmes d&#x27;entraînement électromécanique et électronique.&lt;/p&gt; &lt;p&gt;L&#x27;entreprise vous offre l&#x27;opportunité de vous épanouir et — Bac+2 — HTML5, CSS3, JavaScript, Lazarus/Delphi, SQL</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-bb585658958ea81d</id>
+    <title>APPRENTISSAGE - Data Analyst e-Commerce (F/H) — (employeur non précisé) (Prunay-En-Yvelines)</title>
+    <link href="https://www.directemploi.com/candidatOffre/56018225?utm_source=pole-emploi&amp;utm_medium=referral&amp;utm_campaign=Pôle-Emploi"/>
+    <updated>2026-08-17T00:00:00Z</updated>
+    <published>2026-08-17T00:00:00Z</published>
+    <summary>En tant qu&#x27;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp;amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant a —  — </summary>
+  </entry>
   <entry>
     <id>tag:coda.school,2026:offre-3dd5979098362081</id>
-    <title>Alternance - Ingénieur Qualité Logiciels H/F — KNDS (Bourges)</title>
+    <title>Alternance - Ingénieur Qualité Logiciels H/F — KNDS France (Bourges)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/79516653.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Suivre et harmoniser les processus de développement logiciel, participer aux programmes de qualification et gérer les tâches techniques de conception et validation. — Bac+5 — Qualification logicielle, logiciel embarqué</summary>
+    <summary>Suit et met en place les processus de développement logiciel en tant qu&#x27;apprenti responsable qualité, avec participation à la conception, validation et qualification des logiciels. — Bac+5 — Logiciel embarqué</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-c2fd40cec0f0f7a1</id>
-    <title>Alternance - Ingénieur Qualité Logiciels H/F — Nexter (KNDS France) (Bourges)</title>
+    <title>Alternance - Ingénieur Qualité Logiciels H/F — Nexter (Bourges)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/76887776.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Suivre et harmoniser les processus de développement logiciel, participer aux programmes de qualification et gérer les tâches techniques de conception et validation. — Bac+5 — Qualification logicielle, logiciel embarqué (Munitronique)</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-16946204d77f8674</id>
-    <title>Alternance - Développeur DevOps (F/H) — Worldline (Blois)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/77567553.html"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Développer une application web de gestion des cartes commerciales bancaires au sein de la Squad Carte Commerciale, avec revue de code et tests automatisés. — Bac+2 à Bac+5 — Java, VueJS, Sonar, tests unitaires/e2e, JIRA</summary>
+    <summary>Assure le suivi et la mise en place des processus de développement munitronique et participe aux programmes de qualification logicielle et aux tâches techniques associées (conception, validation, expertise). — Bac+5 — Logiciel embarqué</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-f55f0fd53e78ccf2</id>
@@ -35,6 +43,6 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82056437.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Accompagner la migration SAP ECC vers S/4HANA : assister les utilisateurs, créer des supports de formation et suivre les incidents pendant le déploiement. — Bac+3 à Bac+5 — SAP S/4HANA, ERP</summary>
+    <summary>Accompagne les équipes lors de la migration de SAP ECC vers S/4HANA en assistant les utilisateurs dans la prise en main du nouveau système et en créant des supports de formation. — Bac+3 à Bac+5 — SAP S/4HANA, ERP</summary>
   </entry>
 </feed>
