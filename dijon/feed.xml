@@ -4,7 +4,15 @@
   <id>tag:coda.school,2026:veille-dijon-bfc</id>
   <title>Veille Alternance Tech — Dijon-BFC — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-08-27T00:00:00Z</updated>
+  <updated>2026-08-28T00:00:00Z</updated>
+  <entry>
+    <id>tag:coda.school,2026:offre-a678efd41e336474</id>
+    <title>Apprenti·e Administrateur - Administratrice de Systèmes et Réseaux H/F — École Nationale des Greffes (Dijon)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/81303467.html"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Support informatique et gestion du parc d&#x27;ordinateurs (administratif et pédagogique), avec assistance sur les infrastructures, supervision réseau et maintenance des serveurs. — Bac+2 à Bac+5 — Non précisé</summary>
+  </entry>
   <entry>
     <id>tag:coda.school,2026:offre-c2318c5f755ffa17</id>
     <title>Alternant R&amp;amp;D Logiciel Embarqué (H/F) — CARVOLIX (Besançon)</title>
@@ -19,14 +27,6 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/80834020.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Intègre l&#x27;équipe de développement de la direction informatique pour concevoir et développer des applications métiers en environnement .NET (approche agile), avec tests unitaires et fonctionnels. — Bac+2 à Bac+5 — C#, .NET, SQL, ASP.NET, Git, API</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-a678efd41e336474</id>
-    <title>Apprenti·e Administrateur - Administratrice de Systèmes et Réseaux H/F — École Nationale des Greffes (Dijon)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/81303467.html"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Assure le support informatique (dépannage, optimisation), le déploiement et le maintien du parc informatique, la gestion des espaces numériques et l&#x27;assistance à l&#x27;infrastructure (supervision réseau, maintenance serveurs). — Bac+2 à Bac+5 — Infrastructure, supervision réseau, maintenance serveurs, support IT</summary>
+    <summary>Participation au développement d&#x27;applications C#/.NET (évolutions fonctionnelles, correctifs, API et front web) au sein d&#x27;une équipe Agile. — Bac+2 à Bac+5 — C#, .NET, ASP.NET, SQL, API, Git</summary>
   </entry>
 </feed>
