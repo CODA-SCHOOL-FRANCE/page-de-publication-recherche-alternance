@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
-  <title>Veille Alternance Tech — Orleans-CVL — Offres actives</title>
+  <title>CODA Orléans — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
   <updated>2026-08-31T00:00:00Z</updated>
   <entry>

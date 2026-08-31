@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>tag:coda.school,2026:veille-avignon-sud</id>
-  <title>Veille Alternance Tech — Avignon-Sud — Offres actives</title>
+  <title>CODA Avignon — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
   <updated>2026-08-31T00:00:00Z</updated>
   <entry>
