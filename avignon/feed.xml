@@ -4,30 +4,14 @@
   <id>tag:coda.school,2026:veille-avignon-sud</id>
   <title>Veille Alternance Tech — Avignon-Sud — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-08-28T00:00:00Z</updated>
-  <entry>
-    <id>tag:coda.school,2026:offre-cd4b3b364e87bb78</id>
-    <title>ALTERNANCE - BAC+5 Ingénieur(e) en Informatique Industrielle et Cybersécurité F/H — EDF (Marseille)</title>
-    <link href="https://www.edf.fr/edf-recrute/offre/detail/2026-163531"/>
-    <updated>2026-08-28T00:00:00Z</updated>
-    <published>2026-08-28T00:00:00Z</published>
-    <summary>Alternance Bac+5 d&#x27;ingénieur en informatique industrielle et cybersécurité chez EDF, à Marseille. — Bac+5 — </summary>
-  </entry>
+  <updated>2026-08-31T00:00:00Z</updated>
   <entry>
     <id>tag:coda.school,2026:offre-5e86701ee856b76b</id>
     <title>Apprenti Technicien Réseaux H/F — SNEF (Marseille)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82697610.html"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <published>2026-08-27T00:00:00Z</published>
-    <summary>Intégrer la Direction des Systèmes d&#x27;Information pour développer des compétences en administration réseau, cybersécurité et télécommunications. Participer à l&#x27;exploitation des infrastructures réseau, à la maintenance des solutions de sécurité et au support des utilisateurs. — Bac à Bac+2 — Cisco, téléphonie IP, Wi-Fi professionnel, contrôle d&#x27;accès réseau</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-9dd9b6a06ed52337</id>
-    <title>Alternance - Analyste CyberSécurité H/F — Crédit Agricole Alpes Provence (Aix-en-Provence)</title>
-    <link href="https://recrutement.ca-alpesprovence.fr/jobs/8271667-alternance-analyste-cybersecurite-h-f"/>
-    <updated>2026-08-27T00:00:00Z</updated>
-    <published>2026-08-27T00:00:00Z</published>
-    <summary>Rejoint l&#x27;équipe sécurité SI de la Caisse régionale Alpes Provence pour participer à l&#x27;analyse et au suivi des risques cybersécurité. —  — </summary>
+    <summary>Administration des infrastructures réseau, participation à la gestion de la cybersécurité et support des télécommunications, avec montée en compétences progressive. — Bac+3-5 — Cisco, Checkpoint/Fortinet/Stormshield, Wi-Fi Aruba, Wallix Bastion, VPN, TCP/IP/VLAN/DHCP/DNS</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-bfc3ac810918fd08</id>
@@ -35,7 +19,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82257849.html"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <published>2026-08-27T00:00:00Z</published>
-    <summary>Assister l&#x27;équipe cybersécurité dans la configuration et maintenance des outils de sécurité, l&#x27;analyse des journaux et la documentation des procédures. Participer à un projet visant à augmenter le score de cybersécurité Azure et à implémenter de nouveaux paramétrages dans Zscaler. — Bac+5 — Pare-feu, Antivirus, Azure Security Center, Zscaler</summary>
+    <summary>L&#x27;alternant assiste l&#x27;équipe cybersécurité dans la gestion quotidienne des tâches de sécurité et la configuration des outils de protection, avec un projet visant à améliorer le score de sécurité Azure et à configurer la plateforme Zscaler. — Bac+5 — Azure Security Center, Zscaler, pare-feu, antivirus</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-5e621dde1561205f</id>
@@ -43,7 +27,15 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82596334.html"/>
     <updated>2026-08-25T00:00:00Z</updated>
     <published>2026-08-25T00:00:00Z</published>
-    <summary>Accompagner l&#x27;équipe informatique pour assurer le bon fonctionnement du parc informatique. Effectuer la maintenance de premier niveau des équipements, diagnostiquer les incidents utilisateurs et participer au déploiement et renouvellement du matériel. — Bac+2 à Bac+3 — Maintenance parc informatique, réseaux, déploiement matériel</summary>
+    <summary>Maintenance de premier niveau des équipements informatiques, diagnostic et résolution d&#x27;incidents, installation/configuration de postes de travail et gestion du parc informatique. — Bac+2-3 — Windows, TCP/IP, parc informatique</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-a075c167d9c53a57</id>
+    <title>Développeur Web Junior - Alternance Bac+3 - Bac+4 H/F — Société Française de Garantie (Rousset)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/82536277.html"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <published>2026-08-24T00:00:00Z</published>
+    <summary>Participation à la conception, au développement et à l&#x27;évolution d&#x27;applications web pour les consommateurs et partenaires, principalement en PHP avec des contributions front-end. — Bac+3-4 — PHP, HTML, CSS, JavaScript, SQL/MySQL, API, outils IA</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-bda3c647997ce962</id>
@@ -60,6 +52,22 @@
     <updated>2026-08-19T00:00:00Z</updated>
     <published>2026-08-19T00:00:00Z</published>
     <summary>&lt;p&gt;Affecté(e) au Détachement d’appui au numérique d’Orange, vous :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Installerez, mettrez en œuvre et maintiendrez les matériels SIC, téléphoniques, informatiques et sonorisation fixe ;&lt;/li&gt;&lt;li&gt;Maintiendrez en c — Bac+3 — </summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-b54ec1c63e887c97</id>
+    <title>Alternance - Technicien en gestion de l&#x27;exploitation réseau F/H — RTE - Réseau de transport d&#x27;électricité (Marseille)</title>
+    <link href="https://www.meteojob.com/jobs/55519655?utm_source=labonnealternance&amp;utm_medium=aggregator-free&amp;utm_campaign=alternance"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <published>2026-08-19T00:00:00Z</published>
+    <summary>&lt;p&gt;Rattaché(e) à la Direction Exploitation, vous rejoindrez le service Planification Long Terme composée de 18 personnes, située à Marseille (13). Cette équipe est en charge de planifier les travaux avec les clients et l — Bac+3 — </summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-3ce0435a869a9ce3</id>
+    <title>Alternant Développeur IA H/F — L&#x27;industrie recrute (Valence)</title>
+    <link href="https://www.meteojob.com/jobs/55659899?utm_source=labonnealternance&amp;utm_medium=aggregator-free&amp;utm_campaign=alternance"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <published>2026-08-19T00:00:00Z</published>
+    <summary>&lt;p&gt;Prêt pour de nouvelles aventures ? Embarquez pour Selha Group !&lt;/p&gt; &lt;p&gt;Selha Group, c&#x27;est plus de 1000 collaborateurs, répartis sur 5 sites en France et au Maroc, qui partagent une seule et même mission : apporter à n — Bac+5 — </summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-bdfc73916da7b309</id>
@@ -86,14 +94,6 @@
     <summary>Sous la responsabilité du Responsable technique, vos missions seront les suivantes :Support Hotline (N1/N2)- Réception et traitement des demandes clients (appels, mails, tickets) - Qualification, création et suivi des ti — Bac+3 — </summary>
   </entry>
   <entry>
-    <id>tag:coda.school,2026:offre-d524ce705092fb29</id>
-    <title>Alternant - Ingénieur Développement Systèmes Embarqués H/F — Hirsch (Aix-en-Provence)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/77783971.html"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Développe et modernise l&#x27;interface web d&#x27;une centrale de sécurité sous Linux embarqué (contrôle d&#x27;accès, GTB) chez Hirsch, effectue tests unitaires et validation. — Bac+3 à Bac+4 — C/C++, TypeScript, JavaScript, HTML, Linux embarqué, Buildroot, GitLab CI, Docker</summary>
-  </entry>
-  <entry>
     <id>tag:coda.school,2026:offre-739dc92eb15d17ce</id>
     <title>Développeur·se Web PHP - Alternance Agence Kaiman H/F — Kaiman (Aix-en-Provence)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82010163.html"/>
@@ -107,15 +107,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82075105.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Rejoindre la Division Digitale pour contribuer au développement de nouvelles fonctionnalités et à la maintenance des applications métier. Développer des interfaces web avec Laravel et React, concevoir des API et explorer des cas d&#x27;usage en automatisation et intelligence artificielle. — Bac+3/Bac+4 — PHP, JavaScript, Python, Laravel, React, Inertia.js, MySQL, Docker, AWS</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-530ba98af177aac8</id>
-    <title>Alternant en Support Informatique H/F — Prodeval (Châteauneuf-sur-Isère)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/81890749.html"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Assure le support informatique interne de Prodeval, dans la région de Valence. — Bac+2 — Windows, Office 365, infrastructure informatique, outils collaboratifs</summary>
+    <summary>Développement de nouvelles fonctionnalités et maintenance des applications métier, développement d&#x27;interfaces web avec Laravel et React, participation progressive à des projets de production. — Bac+3-4 — PHP, JavaScript, Python, Laravel, React, Inertia.js, MySQL, Git, Redis, Docker, AWS</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-5bdeec1eb2941f03</id>
@@ -123,6 +115,6 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/79565681.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Rattaché à la direction des Systèmes Informatiques, faciliter l&#x27;adoption des solutions Google Workspace et assurer le support utilisateur. Créer une FAQ, contacter les services et remonter les difficultés rencontrées en lien avec le support technique. — Bac+2/Bac+3 — Google Workspace, agents IA/LLM</summary>
+    <summary>Facilite l&#x27;adoption de Google Workspace au sein de l&#x27;entreprise en accompagnant les utilisateurs et en remontant les difficultés techniques rencontrées. — Bac+2-3 — Google Workspace, LLM, agents IA</summary>
   </entry>
 </feed>
