@@ -4,13 +4,29 @@
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
   <title>CODA Orléans — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-01T00:00:00Z</updated>
+  <updated>2026-09-02T00:00:00Z</updated>
+  <entry>
+    <id>tag:coda.school,2026:offre-8b439eaf576567c2</id>
+    <title>Chargé de projet - Analyse de données et sensibilisation à la sécurité informatique - Alternance — Société Générale (Orléans)</title>
+    <link href="https://careers.societegenerale.com/offres-d-emploi/charge-de-projet-analyse-de-donnees-et-sensibilisation-a-la-securite-informatique-260004LH-fr"/>
+    <updated>2026-08-28T00:00:00Z</updated>
+    <published>2026-08-28T00:00:00Z</published>
+    <summary>Analyse de données et actions de sensibilisation à la sécurité informatique. — Bac+3 à Bac+5 — </summary>
+  </entry>
   <entry>
     <id>tag:coda.school,2026:offre-d690c20dff982146</id>
     <title>Technicien Support Informatique en Alternance H/F — VINCI Energies France Industrie Ouest-Atlantique &amp; Pacifique (Parçay-Meslay)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82732331.html"/>
     <updated>2026-08-28T00:00:00Z</updated>
     <published>2026-08-28T00:00:00Z</published>
-    <summary>Assure le fonctionnement du parc informatique du site : déploiement, configuration et maintenance des postes et accès réseau, diagnostic de pannes et accompagnement des collaborateurs dans l&#x27;utilisation des outils informatiques. — Bac+2 — Parc informatique, réseaux, matériel informatique</summary>
+    <summary>Installation et configuration du matériel informatique et réseau, diagnostic et réparation des pannes ; support et assistance aux collaborateurs du pôle et des entreprises clientes. — Bac+2 — Support informatique, réseau, parc informatique</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-a3498f12d708d2cf</id>
+    <title>Développeur web H/F - Alternance — Cotoit (Orléans)</title>
+    <link href="https://www.welcometothejungle.com/fr/companies/cotoit/jobs/developpeur-web-h-f-alternance_orleans"/>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <published>2026-08-13T00:00:00Z</published>
+    <summary>Renforcer le pôle digital de Cotoit (syndic de copropriété en ligne) : contribution au site vitrine, à l&#x27;outil de gestion, à l&#x27;application mobile et au CRM de l&#x27;écosystème digital de l&#x27;entreprise. — Bac+3/Bac+4 — PHP, Symfony, Angular</summary>
   </entry>
 </feed>
