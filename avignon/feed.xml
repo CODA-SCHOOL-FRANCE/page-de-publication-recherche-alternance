@@ -4,14 +4,14 @@
   <id>tag:coda.school,2026:veille-avignon-sud</id>
   <title>CODA Avignon — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-02T00:00:00Z</updated>
+  <updated>2026-09-03T00:00:00Z</updated>
   <entry>
     <id>tag:coda.school,2026:offre-dad5bf0e9eb2c926</id>
     <title>Chargé de Cybersécurité - Data &amp; IA Alternance H/F — Groupe ONET (Marseille)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82843137.html"/>
     <updated>2026-09-02T00:00:00Z</updated>
     <published>2026-09-02T00:00:00Z</published>
-    <summary>Contribuer à la définition et à la mise en place de la politique de sécurité du groupe et participer à la gouvernance de la protection des données et à la conformité IA. — Bac+3/Bac+4 — Cybersécurité, gouvernance des données</summary>
+    <summary>Contribue à la définition et à la mise en place de la politique de sécurité informatique du groupe, participe à la gouvernance des données et de l&#x27;IA, et veille à la conformité protection des données. — Bac+3 — Data Security Posture Management, IA, gouvernance des données</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a638842ddc6db426</id>
@@ -22,36 +22,20 @@
     <summary>Onet, groupe familial français fondé en 1860, est un acteur international des métiers de l&#x27;ingénierie et des services. Notre offre diversifiée (Propreté, Sécurité, Accueil, Logistique, Services aéroportuaires, Ingénierie —  — </summary>
   </entry>
   <entry>
-    <id>tag:coda.school,2026:offre-a72b78b52f3ec112</id>
-    <title>Apprenti en Cyber Sécurité H/F — Airbus Helicopters (Marignane)</title>
-    <link href="https://www.wizbii.com/company/airbus/job/apprenti-en-cyber-securite"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <published>2026-09-01T00:00:00Z</published>
-    <summary>Développement de la connaissance OWASP et des méthodologies sécurisées, évaluation des pratiques de développement, création de ressources de sensibilisation à la sécurité en collaboration avec les équipes de développement. — Bac+2/3 — Windows, Linux, scripting, développement web, sécurité applicative (OWASP, XSS, CSRF, injection SQL)</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-a4af0074519dd856</id>
-    <title>Alternance Royal Canin - Digitalisation en Qualité &amp; Sécurité Alimentaire (Q&amp;FS) H/F/X — Royal Canin (Aimargues)</title>
-    <link href="https://careers.royalcanin.com/fr/emploi/aimargues/alternance-royal-canin-digitalisation-en-qualite-and-securite-alimentaire-q-and-fs-h-f-x-septembre-/42851/92519310384"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <published>2026-09-01T00:00:00Z</published>
-    <summary>Contribution à la transformation digitale des processus qualité et sécurité alimentaire, développement d&#x27;outils et solutions de visualisation de données et d&#x27;automatisation, sur un contrat de 12 mois. — Bac+3 à Bac+5 — Power BI, Tableau, modélisation prédictive/ML, Power Apps, Power Automate, SharePoint</summary>
-  </entry>
-  <entry>
     <id>tag:coda.school,2026:offre-5e86701ee856b76b</id>
     <title>Apprenti Technicien Réseaux H/F — SNEF (Marseille)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82697610.html"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <published>2026-08-27T00:00:00Z</published>
-    <summary>Administration des équipements réseau, supervision des infrastructures et résolution d&#x27;incidents ; participation à la sécurité réseau (firewalls, VPN) et déploiement Wi-Fi. — Bac à Bac+2 — Cisco, Aruba, Checkpoint, firewalls, VPN, Wi-Fi, télécommunications IP</summary>
+    <summary>Participe à l&#x27;administration réseau et à la sécurité des infrastructures (firewalls, VPN, Wi-Fi, LAN), à la résolution d&#x27;incidents et aux projets d&#x27;évolution des réseaux. — Bac+3 — Cisco, Checkpoint, Fortinet, Stormshield, Aruba Wi-Fi, Wallix Bastion, VPN</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-bfc3ac810918fd08</id>
-    <title>Expert Cybersécurité - Alternance H/F — Q Energy France (Avignon)</title>
+    <title>Expert Cybersécurité - Alternance - Avignon H/F — Q Energy France (Avignon)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82257849.html"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <published>2026-08-27T00:00:00Z</published>
-    <summary>Participer à un projet d&#x27;amélioration du score de cybersécurité sur Azure et au déploiement de nouveaux paramétrages Zscaler, avec suivi des incidents et sensibilisation des collaborateurs. — Bac+5 — Azure Security Center, Zscaler, firewalls, antivirus</summary>
+    <summary>L&#x27;alternant assiste l&#x27;équipe cybersécurité dans la configuration et la maintenance des outils de sécurité et l&#x27;analyse des journaux, et participe à l&#x27;amélioration du score de sécurité Azure et au paramétrage de Zscaler. — Bac+5 — Azure Security Center, Zscaler, pare-feu, antivirus</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-5e621dde1561205f</id>
@@ -59,7 +43,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82596334.html"/>
     <updated>2026-08-25T00:00:00Z</updated>
     <published>2026-08-25T00:00:00Z</published>
-    <summary>Assurer le support informatique et la maintenance du parc : diagnostic technique, gestion des postes de travail et assistance aux utilisateurs de premier niveau. — Bac+2/Bac+3 — Windows, TCP/IP, Wi-Fi, câblage</summary>
+    <summary>Assure la maintenance de premier niveau des équipements informatiques, diagnostique les incidents techniques et participe au déploiement du matériel et au support des utilisateurs. — Bac+2 — TCP/IP, Wi-Fi, brassage, environnement Windows</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a075c167d9c53a57</id>
@@ -67,7 +51,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82536277.html"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <published>2026-08-24T00:00:00Z</published>
-    <summary>Participer à la conception, au développement et à l&#x27;évolution d&#x27;applications web, sur des composantes front comme back, avec usage d&#x27;outils IA en support du développement. — Bac+3/Bac+4 — PHP, HTML/CSS, JavaScript, MySQL, API, outils IA</summary>
+    <summary>Participe à la conception et au développement d&#x27;applications web internes, développe principalement en PHP avec des contributions Front-End, et explore l&#x27;usage d&#x27;outils d&#x27;IA comme assistant de développement. — Bac+3 — PHP, HTML/CSS/JavaScript, SQL/MySQL, API</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-bda3c647997ce962</id>
@@ -75,7 +59,23 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82496038.html"/>
     <updated>2026-08-20T00:00:00Z</updated>
     <published>2026-08-20T00:00:00Z</published>
-    <summary>Au sein de la Direction Production et Infrastructure, contribuer à l&#x27;amélioration des infrastructures informatiques en collaborant avec les équipes Systèmes, Réseaux, Sécurité, Bases de données et Datacenter. — Bac+2 à Bac+5 — SGBD, systèmes, réseaux, datacenter</summary>
+    <summary>Rejoint la Direction de la Production et des Infrastructures pour contribuer à l&#x27;amélioration des systèmes informatiques (systèmes, réseaux, sécurité, bases de données, datacenter). — Bac+2 à Bac+5 — SGBD, Systèmes, Réseaux, Sécurité, Datacenter</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-d8abf7dacf89d90b</id>
+    <title>TECHNICIEN(NE) SYSTEME D&#x27;INFORMATION ET DE COMMUNICATION — Commissariat au Numérique de Défense (Orange)</title>
+    <link href="https://www.pass.fonction-publique.gouv.fr/offre/technicienne-systeme-dinformation-et-de-communication-3"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <published>2026-08-19T00:00:00Z</published>
+    <summary>Affecté(e) au Détachement d’appui au numérique d’Orange, vous : Installerez, mettrez en œuvre et maintiendrez les matériels SIC, téléphoniques, informatiques et sonorisation fixe ; Maintiendrez en condition opérationnell — Bac+3 — </summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-b54ec1c63e887c97</id>
+    <title>Alternance - Technicien en gestion de l&#x27;exploitation réseau F/H — RTE - Réseau de transport d&#x27;électricité (Marseille)</title>
+    <link href="https://www.meteojob.com/jobs/55519655?utm_source=labonnealternance&amp;utm_medium=aggregator-free&amp;utm_campaign=alternance"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <published>2026-08-19T00:00:00Z</published>
+    <summary>Rattaché(e) à la Direction Exploitation, vous rejoindrez le service Planification Long Terme composée de 18 personnes, située à Marseille (13). Cette équipe est en charge de planifier les travaux avec les clients et les — Bac+3 — </summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-dd754beb19cf2745</id>
@@ -83,15 +83,15 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/81910298.html"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <published>2026-08-19T00:00:00Z</published>
-    <summary>Développer et maintenir des outils informatiques de bout en bout (analyse du besoin, codage, tests, déploiement) en veillant à la conformité RGPD et aux bonnes pratiques de cybersécurité. — Bac+2 à Bac+5 — VBA, Google Apps Script, Excel, Google Workspace</summary>
+    <summary>Conçoit et maintient des outils informatiques internes en gérant tout le cycle (recueil des besoins, codage, tests, déploiement) et assure un premier niveau de sécurité des données (RGPD). — Bac+2 à Bac+5 — VBA, Google Apps Script, Excel, Google Workspace</summary>
   </entry>
   <entry>
-    <id>tag:coda.school,2026:offre-d3b5ab7409fdaa7e</id>
-    <title>Alternant Assistance en Gouvernance Sécurité des SI H/F — MONEXT (Aix-en-Provence)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/82445269.html"/>
+    <id>tag:coda.school,2026:offre-bdfc73916da7b309</id>
+    <title>Développeur full-stack en alternance (H/F) — PRO ARCHIVES (Nîmes)</title>
+    <link href="https://candidat.francetravail.fr/offres/recherche/detail/212CNWN"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <published>2026-08-19T00:00:00Z</published>
-    <summary>Contribuer à la gouvernance de la sécurité des SI au sein d&#x27;une équipe de 4 personnes : revue des politiques de sécurité, conformité réglementaire et projets de gouvernance des données. — Bac+4/Bac+5 — Sécurité des systèmes d&#x27;information, protection des données</summary>
+    <summary>La Division Digitale recherche un Développeur full-stack en alternance, inscrit en Master 1 ou Master 2, pour rejoindre l&#x27;équipe à partir de septembre 2026. Accompagné par le Responsable de la Division Digitale, l&#x27;altern —  — </summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-681b065e7aea8691</id>
@@ -102,12 +102,20 @@
     <summary>Sous la responsabilité du Responsable technique, vos missions seront les suivantes :Support Hotline (N1/N2)- Réception et traitement des demandes clients (appels, mails, tickets) - Qualification, création et suivi des ti — Bac+3 — </summary>
   </entry>
   <entry>
+    <id>tag:coda.school,2026:offre-a4012173e79f1402</id>
+    <title>Développeur en Master 1ère ou 2ème Année H/F — Computerline Electronique (Meyreuil)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/81298331.html"/>
+    <updated>2026-08-17T00:00:00Z</updated>
+    <published>2026-08-17T00:00:00Z</published>
+    <summary>Conçoit et développe des architectures web sur mesure pour les clients, assure la maintenance des sites existants et collabore avec les designers sur l&#x27;expérience utilisateur. — Bac+4 — Applications web responsives, CMS, solutions de paiement, SEO</summary>
+  </entry>
+  <entry>
     <id>tag:coda.school,2026:offre-d524ce705092fb29</id>
-    <title>Alternant Ingénieur Développement Systèmes Embarqués H/F — Hirsch (Aix-en-Provence)</title>
+    <title>Alternant - Ingénieur Développement Systèmes Embarqués H/F — Hirsch (Aix-en-Provence)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/77783971.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Moderniser l&#x27;interface web d&#x27;un centre de contrôle de systèmes de sûreté sous Linux embarqué : développement, tests et maintenance de solutions embarquées pour le contrôle d&#x27;accès et la détection d&#x27;intrusion. — Bac+3/Bac+4 — C/C++, TypeScript, JavaScript, HTML, Linux embarqué, Buildroot, GitLab CI, Docker</summary>
+    <summary>Modernise l&#x27;interface web d&#x27;une centrale de sécurité Linux embarquée et contribue aux évolutions des solutions de contrôle d&#x27;accès et d&#x27;intrusion, avec un focus sécurité, performance et validation. — Bac+3 — C/C++, TypeScript, JavaScript, HTML, Linux embarqué, Buildroot, GitLab CI, Docker</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-739dc92eb15d17ce</id>
@@ -115,7 +123,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82010163.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Développer et intégrer des sites et applications web, assurer la maintenance et l&#x27;évolution du parc de sites clients de l&#x27;agence (correctifs, mises à jour, optimisation sécurité). — Bac+2 à Bac+4 — PHP, Symfony, WordPress/WooCommerce, PrestaShop, Shopify, HTML/CSS</summary>
+    <summary>Développe et maintient des sites et applications web pour les clients de l&#x27;agence : corrections de bugs, mises à jour et améliorations de sécurité en méthode agile. — Bac+2 à Bac+4 — PHP, Symfony, WordPress/WooCommerce, PrestaShop, Shopify</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-71f6625d70f6ef8f</id>
@@ -123,7 +131,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82075105.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Contribuer aux projets de production, à l&#x27;évolution des outils internes et à des travaux d&#x27;automatisation/IA : développement d&#x27;interfaces web, conception d&#x27;API et résolution d&#x27;incidents. — Bac+3/Bac+4 — PHP, Laravel, JavaScript, React, MySQL, REST API, Python, TypeScript, Git, Docker, AWS</summary>
+    <summary>Développe de nouvelles fonctionnalités sur des applications métier, maintient les solutions existantes et conçoit des interfaces web, avec une ouverture vers l&#x27;automatisation et l&#x27;IA. — Bac+4 — PHP, Laravel, JavaScript, React, MySQL, API REST, Python, Docker, AWS</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-dde6bcb08278b6da</id>
@@ -131,7 +139,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/79254325.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Accompagner le déploiement et l&#x27;adoption de la solution logicielle Xplore BackOffice auprès des utilisateurs, avec formation et support fonctionnel aux équipes en France et à l&#x27;international. — Bac+3 à Bac+5 — Xplore BackOffice</summary>
+    <summary>Accompagne le déploiement d&#x27;une solution de rapprochement bancaire chez des clients en France et à l&#x27;international, assure le support fonctionnel aux utilisateurs et anime des formations client. — Bac+3 — Solution Xplore BackOffice (rapprochement bancaire, comptabilité)</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-5bdeec1eb2941f03</id>
@@ -139,6 +147,6 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/79565681.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Faciliter l&#x27;adoption des solutions Google Workspace dans l&#x27;entreprise : accompagnement et formation des utilisateurs, résolution de difficultés techniques, rôle d&#x27;ambassadeur numérique. — Bac+2 à Bac+4 — Google Workspace, outils IA/agents IA</summary>
+    <summary>Accompagne l&#x27;adoption des solutions Google Workspace en interne, fournit du support aux utilisateurs et pilote la migration des contenus Word/Excel vers l&#x27;environnement collaboratif. — Bac+2 — Google Workspace, IA (LLM, agents)</summary>
   </entry>
 </feed>
