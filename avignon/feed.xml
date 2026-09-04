@@ -4,14 +4,38 @@
   <id>tag:coda.school,2026:veille-avignon-sud</id>
   <title>CODA Avignon — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-03T00:00:00Z</updated>
+  <updated>2026-09-04T00:00:00Z</updated>
+  <entry>
+    <id>tag:coda.school,2026:offre-7c9d75e3ed9c90dd</id>
+    <title>Stage - Alternance - Chef de Projet GRC et Cybersécurité H/F — Onet Technologies (Marseille)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/81934256.html"/>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <published>2026-09-04T00:00:00Z</published>
+    <summary>Au sein de l&#x27;équipe Transformation Numérique &amp; Cyber, le candidat sert de point focal pour les demandes cybersécurité, analyse les besoins métiers et promeut la gouvernance des données et les bonnes pratiques de sécurité. — Bac+5 — Gouvernance des données, cybersécurité, gestion de projet numérique</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-449c32ca7c3a4100</id>
+    <title>Alternant(e) DevOps – CI/CD &amp; MCO Environnements Java H/F — MONEXT (Aix-en-Provence)</title>
+    <link href="https://jobs.smartrecruiters.com/MONEXT/744000117351556-alternant-e-devops-ci-cd-mco-environnements-java-h-f-"/>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <published>2026-09-04T00:00:00Z</published>
+    <summary>L&#x27;alternant participe à la mise en place et à l&#x27;amélioration du déploiement continu, contribue à l&#x27;évolution des pipelines CI/CD (GitLab, Jenkins, Ansible) et assure le suivi opérationnel des environnements internes. — Bac+4/5 — Java, Linux, Git, GitLab, Jenkins, Ansible, Confluence</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-22a137d23f876a59</id>
+    <title>Ingénieur·e Qualité Process IT / DevOps - Alternance — Oodrive (Marseille)</title>
+    <link href="https://careers.oodrive.com/jobs/8153683-ingenieur-e-qualite-process-it-devops-alternance"/>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <published>2026-09-04T00:00:00Z</published>
+    <summary>L&#x27;apprenti supervise la production via des dashboards Grafana, contribue à l&#x27;analyse des incidents et à l&#x27;industrialisation CI/CD, et améliore les processus qualité au sein de l&#x27;équipe Support &amp; Delivery. — Bac+3 à Bac+5 — Grafana, Prometheus, GitLab CI, Java, Angular, SQL, ITIL</summary>
+  </entry>
   <entry>
     <id>tag:coda.school,2026:offre-dad5bf0e9eb2c926</id>
     <title>Chargé de Cybersécurité - Data &amp; IA Alternance H/F — Groupe ONET (Marseille)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82843137.html"/>
     <updated>2026-09-02T00:00:00Z</updated>
     <published>2026-09-02T00:00:00Z</published>
-    <summary>Contribue à la définition et à la mise en place de la politique de sécurité informatique du groupe, participe à la gouvernance des données et de l&#x27;IA, et veille à la conformité protection des données. — Bac+3 — Data Security Posture Management, IA, gouvernance des données</summary>
+    <summary>Contribution à la définition et la mise en place de la politique de sécurité du groupe, gestion des règles de protection des données et de la conformité des projets IA, suivi des incidents de sécurité. — Bac+3 — Cybersécurité, gouvernance des données, conformité IA, sécurité de l&#x27;information</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a638842ddc6db426</id>
@@ -27,15 +51,15 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82697610.html"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <published>2026-08-27T00:00:00Z</published>
-    <summary>Participe à l&#x27;administration réseau et à la sécurité des infrastructures (firewalls, VPN, Wi-Fi, LAN), à la résolution d&#x27;incidents et aux projets d&#x27;évolution des réseaux. — Bac+3 — Cisco, Checkpoint, Fortinet, Stormshield, Aruba Wi-Fi, Wallix Bastion, VPN</summary>
+    <summary>Participation à l&#x27;administration et l&#x27;exploitation des infrastructures réseaux, à la gestion des solutions de sécurité et de téléphonie IP, ainsi qu&#x27;au déploiement d&#x27;équipements Wi-Fi. — Bac+3 à Bac+5 — TCP/IP, VLAN, DHCP, DNS, Cisco, Wi-Fi Aruba, Firewall Checkpoint/Fortinet/Stormshield, VPN, NAC</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-bfc3ac810918fd08</id>
-    <title>Expert Cybersécurité - Alternance - Avignon H/F — Q Energy France (Avignon)</title>
+    <title>Expert Cybersécurité - Alternance — Q Energy France (Avignon)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82257849.html"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <published>2026-08-27T00:00:00Z</published>
-    <summary>L&#x27;alternant assiste l&#x27;équipe cybersécurité dans la configuration et la maintenance des outils de sécurité et l&#x27;analyse des journaux, et participe à l&#x27;amélioration du score de sécurité Azure et au paramétrage de Zscaler. — Bac+5 — Azure Security Center, Zscaler, pare-feu, antivirus</summary>
+    <summary>L&#x27;alternant assiste l&#x27;équipe cybersécurité au quotidien : surveillance et analyse des journaux de sécurité, mise en œuvre d&#x27;améliorations sur Azure et Zscaler pour renforcer le score de sécurité du groupe. — Bac+5 — Azure Security Center, Zscaler, firewall, antivirus, analyse de risques</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-5e621dde1561205f</id>
@@ -43,15 +67,15 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82596334.html"/>
     <updated>2026-08-25T00:00:00Z</updated>
     <published>2026-08-25T00:00:00Z</published>
-    <summary>Assure la maintenance de premier niveau des équipements informatiques, diagnostique les incidents techniques et participe au déploiement du matériel et au support des utilisateurs. — Bac+2 — TCP/IP, Wi-Fi, brassage, environnement Windows</summary>
+    <summary>Maintenance du parc informatique de premier niveau (PC, imprimantes, téléphones, périphériques) et assistance des collaborateurs, en contribuant à la gestion de l&#x27;infrastructure réseau. — Bac+2/Bac+3 — Environnement Windows, TCP/IP, Wi-Fi, baies de brassage, diagnostic incidents N1</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a075c167d9c53a57</id>
-    <title>Développeur Web Junior - Alternance Bac+3/Bac+4 H/F — Société Française de Garantie (Rousset)</title>
+    <title>Développeur Web Junior - Alternance Bac+3 - Bac+4 H/F — Société Française de Garantie (Rousset)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/82536277.html"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <published>2026-08-24T00:00:00Z</published>
-    <summary>Participe à la conception et au développement d&#x27;applications web internes, développe principalement en PHP avec des contributions Front-End, et explore l&#x27;usage d&#x27;outils d&#x27;IA comme assistant de développement. — Bac+3 — PHP, HTML/CSS/JavaScript, SQL/MySQL, API</summary>
+    <summary>Conception et développement d&#x27;applications web utilisées par les clients et partenaires, maintenance des systèmes existants, avec montée en autonomie progressive au sein d&#x27;une petite équipe IT. — Bac+3/Bac+4 — PHP, HTML/CSS/JavaScript, SQL/MySQL, API, outils IA</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-bda3c647997ce962</id>
@@ -59,7 +83,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82496038.html"/>
     <updated>2026-08-20T00:00:00Z</updated>
     <published>2026-08-20T00:00:00Z</published>
-    <summary>Rejoint la Direction de la Production et des Infrastructures pour contribuer à l&#x27;amélioration des systèmes informatiques (systèmes, réseaux, sécurité, bases de données, datacenter). — Bac+2 à Bac+5 — SGBD, Systèmes, Réseaux, Sécurité, Datacenter</summary>
+    <summary>Au sein de la Division Production et Infrastructure, l&#x27;alternant collabore avec les équipes Systèmes, Réseaux, Sécurité, Bases de données, Automatisation et Datacenter pour faire évoluer l&#x27;infrastructure IT de Docaposte. — Bac+2 à Bac+5 — SGBD, systèmes, réseaux, sécurité, automatisation, datacenter</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-d8abf7dacf89d90b</id>
@@ -78,20 +102,20 @@
     <summary>Rattaché(e) à la Direction Exploitation, vous rejoindrez le service Planification Long Terme composée de 18 personnes, située à Marseille (13). Cette équipe est en charge de planifier les travaux avec les clients et les — Bac+3 — </summary>
   </entry>
   <entry>
-    <id>tag:coda.school,2026:offre-dd754beb19cf2745</id>
-    <title>Développeur d&#x27;Outils &amp; Projets Informatiques - Alternance H/F — Idex Energies (Aix-en-Provence)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/81910298.html"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <published>2026-08-19T00:00:00Z</published>
-    <summary>Conçoit et maintient des outils informatiques internes en gérant tout le cycle (recueil des besoins, codage, tests, déploiement) et assure un premier niveau de sécurité des données (RGPD). — Bac+2 à Bac+5 — VBA, Google Apps Script, Excel, Google Workspace</summary>
-  </entry>
-  <entry>
     <id>tag:coda.school,2026:offre-bdfc73916da7b309</id>
     <title>Développeur full-stack en alternance (H/F) — PRO ARCHIVES (Nîmes)</title>
     <link href="https://candidat.francetravail.fr/offres/recherche/detail/212CNWN"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <published>2026-08-19T00:00:00Z</published>
     <summary>La Division Digitale recherche un Développeur full-stack en alternance, inscrit en Master 1 ou Master 2, pour rejoindre l&#x27;équipe à partir de septembre 2026. Accompagné par le Responsable de la Division Digitale, l&#x27;altern —  — </summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-dd754beb19cf2745</id>
+    <title>Développeur d&#x27;Outils &amp; Projets Informatiques I Alternance H/F — Idex Energies (Aix-en-Provence)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/81910298.html"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <published>2026-08-19T00:00:00Z</published>
+    <summary>L&#x27;apprenti conçoit, déploie et maintient une série d&#x27;outils informatiques agiles pour un contrat public : recueil des besoins, développement, tests et déploiement, en garantissant la sécurité des données (RGPD/SSI). — Bac+2 à Bac+5 — VBA/Excel, Google Apps Script (JavaScript), cybersécurité niveau 1</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-681b065e7aea8691</id>
@@ -107,7 +131,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/81298331.html"/>
     <updated>2026-08-17T00:00:00Z</updated>
     <published>2026-08-17T00:00:00Z</published>
-    <summary>Conçoit et développe des architectures web sur mesure pour les clients, assure la maintenance des sites existants et collabore avec les designers sur l&#x27;expérience utilisateur. — Bac+4 — Applications web responsives, CMS, solutions de paiement, SEO</summary>
+    <summary>Conception et développement d&#x27;architectures web adaptées aux besoins clients, maintenance et optimisation des sites, intégration de solutions de paiement et de CMS, en veillant à l&#x27;expérience utilisateur et au référencement. — Bac+3 à Bac+5 — Développement web, CMS, solutions de paiement, SEO, UX</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-d524ce705092fb29</id>
@@ -115,7 +139,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/77783971.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Modernise l&#x27;interface web d&#x27;une centrale de sécurité Linux embarquée et contribue aux évolutions des solutions de contrôle d&#x27;accès et d&#x27;intrusion, avec un focus sécurité, performance et validation. — Bac+3 — C/C++, TypeScript, JavaScript, HTML, Linux embarqué, Buildroot, GitLab CI, Docker</summary>
+    <summary>Développement et optimisation de solutions de sécurité électronique, notamment modernisation de l&#x27;interface web d&#x27;une centrale de sécurité sous Linux embarqué, avec tests et diagnostics de dysfonctionnements. — Bac+3/Bac+4 — C/C++, TypeScript, JavaScript, HTML, Linux embarqué, Buildroot, GitLab CI, Docker</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-739dc92eb15d17ce</id>
@@ -123,7 +147,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82010163.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Développe et maintient des sites et applications web pour les clients de l&#x27;agence : corrections de bugs, mises à jour et améliorations de sécurité en méthode agile. — Bac+2 à Bac+4 — PHP, Symfony, WordPress/WooCommerce, PrestaShop, Shopify</summary>
+    <summary>L&#x27;alternant rejoint l&#x27;équipe de développement pour construire et maintenir des projets web sur mesure : développement d&#x27;applications, correction de bugs, mises à jour et optimisations de sécurité des sites clients hébergés. — Bac+2 à Bac+4 — PHP, Symfony, WordPress/WooCommerce, PrestaShop, Shopify, HTML/CSS</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-71f6625d70f6ef8f</id>
@@ -131,7 +155,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/82075105.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Développe de nouvelles fonctionnalités sur des applications métier, maintient les solutions existantes et conçoit des interfaces web, avec une ouverture vers l&#x27;automatisation et l&#x27;IA. — Bac+4 — PHP, Laravel, JavaScript, React, MySQL, API REST, Python, Docker, AWS</summary>
+    <summary>L&#x27;alternant contribue progressivement aux projets de production : développement de nouvelles fonctionnalités, maintenance des solutions existantes, conception d&#x27;interfaces web Laravel/React et d&#x27;API, revues de code. — Bac+3/Bac+4 — PHP, Laravel, JavaScript, React, MySQL, REST API, Docker, TypeScript, AWS</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-dde6bcb08278b6da</id>
@@ -147,6 +171,6 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/79565681.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Accompagne l&#x27;adoption des solutions Google Workspace en interne, fournit du support aux utilisateurs et pilote la migration des contenus Word/Excel vers l&#x27;environnement collaboratif. — Bac+2 — Google Workspace, IA (LLM, agents)</summary>
+    <summary>L&#x27;alternant facilite l&#x27;adoption de Google Workspace au sein de l&#x27;entreprise en accompagnant les utilisateurs, en remontant les difficultés techniques et en soutenant le réseau d&#x27;ambassadeurs digitaux. — Bac+2 à Bac+4 — Google Workspace, outils collaboratifs, IA (LLM, agents IA)</summary>
   </entry>
 </feed>

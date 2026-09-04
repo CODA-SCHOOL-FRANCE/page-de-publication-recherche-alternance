@@ -4,7 +4,23 @@
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
   <title>CODA Orléans — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-03T00:00:00Z</updated>
+  <updated>2026-09-04T00:00:00Z</updated>
+  <entry>
+    <id>tag:coda.school,2026:offre-a36d4c51c1a8cfd4</id>
+    <title>DevOps H/F — Fichet Group (Tours)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/83002674.html"/>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <published>2026-09-04T00:00:00Z</published>
+    <summary>L&#x27;alternant assiste l&#x27;ingénieur DevOps sur le périmètre DevOps/SysOps/SecOps/FinOps : maintenance des pipelines CI/CD Azure DevOps, images Docker, déploiements AWS ECS et Kubernetes on-premise, mise en place d&#x27;une stack de monitoring Prometheus/Grafana/Loki. — Bac+2 à Bac+5 — Azure DevOps, Docker, Kubernetes, AWS (ECS, ECR, RDS), SonarQube, Prometheus, Grafana, Loki, Python, PowerShell</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-9f6dba829d591c6b</id>
+    <title>Alternant(e) Chargé(e) de gestion des outils collaboratifs M365 H/F — Thélem assurances (Chécy)</title>
+    <link href="https://www.glassdoor.fr/job-listing/alternant-charg%C3%A9-de-gestion-des-outils-collaboratifs-h-f-thelem-assurances-JV_IC2975685_KO0,56_KE57,74.htm?jl=1009220196928"/>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <published>2026-09-04T00:00:00Z</published>
+    <summary>Au sein de l&#x27;équipe Gouvernance, Pilotage et Outils transverses de la DSI (environ 100 collaborateurs), l&#x27;alternant monte en compétence sur la plateforme M365, l&#x27;analyse des besoins utilisateurs et la conduite du changement, avec création/mise à jour de sites SharePoint et de workflows Power Automate. — Non précisé — Microsoft 365, SharePoint, Power Automate</summary>
+  </entry>
   <entry>
     <id>tag:coda.school,2026:offre-d690c20dff982146</id>
     <title>Technicien Support Informatique en Alternance H/F — VINCI Energies France Industrie Ouest-Atlantique &amp; Pacifique (Parçay-Meslay)</title>
@@ -15,18 +31,10 @@
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-0df2c3132ac67ea2</id>
-    <title>Développeur(se) IT / Assistant(e) Chef de projet (45)  H/F — L&#x27;industrie recrute (Saint-Jean-De-Braye)</title>
+    <title>Développeur(se) IT / Assistant(e) Chef de projet (45)  H/F — Leroy-Somer (groupe NIDEC) (Saint-Jean-De-Braye)</title>
     <link href="https://www.meteojob.com/jobs/55489605?utm_source=labonnealternance&amp;utm_medium=aggregator-free&amp;utm_campaign=alternance"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <published>2026-08-19T00:00:00Z</published>
-    <summary>Leroy-Somer, filiale du groupe international NIDEC, est spécialiste mondial en alternateurs et systèmes d&#x27;entraînement électromécanique et électronique. L&#x27;entreprise vous offre l&#x27;opportunité de vous épanouir et d&#x27;évoluer — Bac+2 — HTML5, CSS3, JavaScript, Lazarus/Delphi, SQL</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-a3498f12d708d2cf</id>
-    <title>Développeur web H/F - Alternance — Cotoit (Orléans)</title>
-    <link href="https://www.welcometothejungle.com/fr/companies/cotoit/jobs/developpeur-web-h-f-alternance_orleans"/>
-    <updated>2026-08-13T00:00:00Z</updated>
-    <published>2026-08-13T00:00:00Z</published>
-    <summary>Renforcer le pôle digital de Cotoit (syndic de copropriété en ligne) : contribution au site vitrine, à l&#x27;outil de gestion, à l&#x27;application mobile et au CRM de l&#x27;écosystème digital de l&#x27;entreprise. — Bac+3/Bac+4 — PHP, Symfony, Angular</summary>
+    <summary>Leroy-Somer, filiale du groupe international NIDEC, spécialiste mondial en alternateurs et systèmes d&#x27;entraînement électromécanique et électronique, recrute sur un poste mêlant développement IT et assistanat de chef de projet. — Bac+2 — HTML5, CSS3, JavaScript, Lazarus/Delphi, SQL</summary>
   </entry>
 </feed>

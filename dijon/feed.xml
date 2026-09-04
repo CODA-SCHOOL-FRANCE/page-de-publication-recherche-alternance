@@ -4,14 +4,30 @@
   <id>tag:coda.school,2026:veille-dijon-bfc</id>
   <title>CODA Dijon — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-03T00:00:00Z</updated>
+  <updated>2026-09-04T00:00:00Z</updated>
+  <entry>
+    <id>tag:coda.school,2026:offre-e8a66e422261c04a</id>
+    <title>Développeur Web et Data F/H — Enedis (Besançon)</title>
+    <link href="https://www.welcometothejungle.com/fr/companies/enedis/jobs/developpeur-web-et-data-f-h_besancon_ENEDI_rLzdAa9"/>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <published>2026-09-04T00:00:00Z</published>
+    <summary>Au sein d&#x27;EnedisLab (division Innovation &amp; Digital, Alsace Franche-Comté), l&#x27;alternant participe à la conception et à la maintenance d&#x27;applications web du réseau d&#x27;innovation régional, et assiste les métiers sur les outils de data et de dataviz. — Bac+5 — Développement web, data, dataviz, cybersécurité</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-8f9888b536aeedc7</id>
+    <title>Alternance - Développeur Web H/F — Enedis (Dijon)</title>
+    <link href="https://www.welcometothejungle.com/fr/companies/enedis/jobs/alternance-developpeur-web-h-f_dijon_ENEDI_1yZD4J8"/>
+    <updated>2026-08-17T00:00:00Z</updated>
+    <published>2026-08-17T00:00:00Z</published>
+    <summary>Au sein de l&#x27;équipe Digital de la Direction Régionale Bourgogne, l&#x27;alternant développe des applications métier destinées aux agents, encadrants et prestataires externes d&#x27;Enedis. — Licence à Master (Bac+3 à Bac+5) — PHP, MySQL, JS</summary>
+  </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a678efd41e336474</id>
     <title>Apprenti·e Administrateur - Administratrice de Systèmes et Réseaux H/F — École Nationale des Greffes (Dijon)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/81303467.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Apprentissage en administration des systèmes et réseaux au sein de l&#x27;École Nationale des Greffes, en charge de l&#x27;infrastructure informatique interne de l&#x27;établissement. — Bac+2 à Bac+5 — Administration systèmes et réseaux, support informatique, supervision réseaux, maintenance serveurs</summary>
+    <summary>L&#x27;apprenti participe au support informatique et à l&#x27;exploitation système : déploiement et maintenance du parc informatique, gestion de l&#x27;environnement numérique de travail, assistance sur les infrastructures et supervision réseau. — Bac+2 à Bac+5 — Administration systèmes et réseaux, support informatique, supervision réseaux, maintenance serveurs</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-c2318c5f755ffa17</id>
