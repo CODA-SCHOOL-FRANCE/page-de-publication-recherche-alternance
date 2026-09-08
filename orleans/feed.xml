@@ -4,7 +4,23 @@
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
   <title>CODA Orléans — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-07T00:00:00Z</updated>
+  <updated>2026-09-08T00:00:00Z</updated>
+  <entry>
+    <id>tag:coda.school,2026:offre-d031bef92561acc6</id>
+    <title>Chef(fe) de projet SI junior - ERP &amp; Applications métiers — ETABLISSEMENTS LAVAL (Chedigny)</title>
+    <link href="https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9eb74406fad1942d143a57/chef-fe-de-projet-si-junior-erp-applications-métiers"/>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <published>2026-09-08T00:00:00Z</published>
+    <summary>L&#x27;Administrateur de systèmes d&#x27;information (SI) joue un rôle crucial dans la gestion et la sécurité des infrastructures informatiques d&#x27;une entreprise. Gère et maintient les systèmes d&#x27;information et l&#x27;infrastructure rés — Bac+5 — </summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-6f9461373f63ef5d</id>
+    <title>Alternant Cybersécurité H/F — AG2R La Mondiale (Esvres)</title>
+    <link href="https://www.wizbii.com/company/ag2r-la-mondiale/job/alternant-cybersecurite-h-f"/>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <published>2026-09-08T00:00:00Z</published>
+    <summary>Alternance cybersécurité au sein du service Sécurité Opérationnelle de la Direction des Systèmes d&#x27;Information d&#x27;AG2R La Mondiale. — Bac+3 — </summary>
+  </entry>
   <entry>
     <id>tag:coda.school,2026:offre-c0dc6a7eb2996b22</id>
     <title>ALTERNANCE - Ingénieur développement logiciel embarqué (H/F) — Thales (La Ferté-Saint-Aubin)</title>
@@ -15,19 +31,11 @@
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a36d4c51c1a8cfd4</id>
-    <title>DevOps H/F (Alternance) — Fichet Group (Tours)</title>
+    <title>DevOps H/F — Fichet Group (Tours)</title>
     <link href="https://www.hellowork.com/fr-fr/emplois/83002674.html"/>
     <updated>2026-09-04T00:00:00Z</updated>
     <published>2026-09-04T00:00:00Z</published>
-    <summary>L&#x27;alternant assiste l&#x27;ingénieur DevOps sur le périmètre DevOps/SysOps/SecOps/FinOps : maintien des pipelines CI/CD et des images Docker, avec pilotage de projets structurants comme le déploiement Kubernetes et la mise en place d&#x27;une stack d&#x27;observabilité (Prometheus/Grafana/Loki). — Bac+3 à Bac+5 — Azure DevOps, Docker, Kubernetes (RKE2, k3d), AWS (ECS, ECR, RDS, CloudFront), SonarQube, Prometheus, Grafana, Python, PowerShell, Bash, Git, .NET, Angular</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-9f6dba829d591c6b</id>
-    <title>Alternant(e) Chargé(e) de gestion des outils collaboratifs M365 H/F — Thélem assurances (Chécy)</title>
-    <link href="https://www.glassdoor.fr/job-listing/alternant-charg%C3%A9-de-gestion-des-outils-collaboratifs-h-f-thelem-assurances-JV_IC2975685_KO0,56_KE57,74.htm?jl=1009220196928"/>
-    <updated>2026-09-04T00:00:00Z</updated>
-    <published>2026-09-04T00:00:00Z</published>
-    <summary>Au sein de l&#x27;équipe Gouvernance, Pilotage et Outils transverses de la DSI (environ 100 collaborateurs), l&#x27;alternant monte en compétence sur la plateforme M365, l&#x27;analyse des besoins utilisateurs et la conduite du changement, avec création/mise à jour de sites SharePoint et de workflows Power Automate. — Non précisé — Microsoft 365, SharePoint, Power Automate</summary>
+    <summary>Seconde l&#x27;ingénieur DevOps sur le périmètre DevOps/SysOps/SecOps/FinOps : maintenance des pipelines CI/CD et gestion des conteneurs, déploiement Kubernetes, mise en place d&#x27;observabilité et optimisation des coûts AWS. — Bac+3 — Azure DevOps, Docker, Kubernetes, AWS, SonarQube, Prometheus, Grafana, Python, Git, .NET, Angular</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-0df2c3132ac67ea2</id>
