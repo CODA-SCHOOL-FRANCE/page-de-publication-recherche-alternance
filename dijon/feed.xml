@@ -4,14 +4,14 @@
   <id>tag:coda.school,2026:veille-dijon-bfc</id>
   <title>CODA Dijon — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-08T00:00:00Z</updated>
+  <updated>2026-09-09T00:00:00Z</updated>
   <entry>
     <id>tag:coda.school,2026:offre-68609ca81bf13c84</id>
-    <title>Apprenti en Master de Développement MR/XR, Développeur / Développeuse Réalité Mixte — Application pédagogique en chirurgie maxillo-faciale — Université de Bourgogne Europe (Dijon)</title>
+    <title>Apprenti en Master de Développement MR/XR - Développeur / Développeuse Réalité Mixte, application pédagogique en chirurgie maxillo-faciale — Université de Bourgogne Europe (Dijon)</title>
     <link href="https://ube.nous-recrutons.fr/poste/glcfk79ecl-apprenti-en-master-de-developpement-mrxr-developpeur-developpeuse-realite-mixte-application-pedagogique-en-chirurgie-maxillo-faciale/"/>
     <updated>2026-09-08T00:00:00Z</updated>
     <published>2026-09-08T00:00:00Z</published>
-    <summary>Reprise et évolution d&#x27;une application de réalité mixte pédagogique en chirurgie maxillo-faciale : migration vers Unity 2022.3 LTS, optimisation de la détection de marqueurs ArUco et amélioration de l&#x27;expérience utilisateur avec MRTK 3/OpenXR. — Bac+5 (Master) — Unity 2022.3 LTS, C#, C++, OpenCV, ArUco, MRTK 3, OpenXR, HoloLens 2</summary>
+    <summary>L&#x27;apprenti migrera une application de réalité mixte de Unity 2021 vers Unity 2022.3 LTS pour améliorer la détection de marqueurs et le recalage 3D, et explorera MRTK 3 et OpenXR pour élargir la compatibilité multi-casques d&#x27;une application pédagogique de chirurgie maxillo-faciale. — Bac+5 — C#, C++, Unity 2022.3 LTS, HoloLens 2, OpenCV, ArUco, MRTK 3, OpenXR, Git</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a678efd41e336474</id>
@@ -19,7 +19,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/81303467.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>Participation aux activités de support et d&#x27;exploitation informatique : gestion et maintenance du parc administratif et pédagogique, assistance sur les infrastructures, supervision réseau et maintenance serveur. — Bac+2/3/4/5 — Administration systèmes et réseaux, supervision réseau, environnement numérique de travail</summary>
+    <summary>L&#x27;alternant assurera le support informatique (analyse et résolution, niveaux 1 et 2) et la gestion de l&#x27;environnement numérique de travail (personnel et stagiaire), tout en participant au déploiement et à la maintenance du parc informatique ainsi qu&#x27;à la supervision des réseaux et à la maintenance des serveurs de l&#x27;établissement. — Bac+2 à Bac+5 — Windows, Linux, TCP/IP, Active Directory, environnement numérique de travail, supervision réseaux, maintenance serveurs</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-c2318c5f755ffa17</id>

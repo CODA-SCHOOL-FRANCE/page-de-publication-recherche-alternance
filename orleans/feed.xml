@@ -4,7 +4,23 @@
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
   <title>CODA Orléans — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-08T00:00:00Z</updated>
+  <updated>2026-09-09T00:00:00Z</updated>
+  <entry>
+    <id>tag:coda.school,2026:offre-9c307128bcb1cfb1</id>
+    <title>Alternance DevOps H/F — Fichet Group (Tours)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/83157466.html"/>
+    <updated>2026-09-09T00:00:00Z</updated>
+    <published>2026-09-09T00:00:00Z</published>
+    <summary>L&#x27;alternant seconde l&#x27;ingénieur DevOps sur l&#x27;automatisation des chaînes CI/CD et la sécurité applicative (DevSecOps). Il participe à des projets structurants : déploiement Kubernetes, mise en place d&#x27;une stack d&#x27;observabilité et optimisation budgétaire AWS. — Bac+3 à Bac+5 — Azure DevOps, Docker, Kubernetes (RKE2, k3d), AWS (ECS/ECR/RDS/CloudFront), SonarQube, Prometheus/Grafana/Loki, Python, PowerShell, Git, .NET, Angular</summary>
+  </entry>
+  <entry>
+    <id>tag:coda.school,2026:offre-7557e8b9088df867</id>
+    <title>Alternance Développeur Digital &amp; Informatique de Gestion H/F — TotalEnergies (site Hutchinson) (Joué-lès-Tours)</title>
+    <link href="https://jobs.totalenergies.com/fr_FR/careers/JobDetail/ALTERNANCE-DEVELOPPEUR-DIGITAL-INFORMATIQUE-DE-GESTION-H-F/78749"/>
+    <updated>2026-09-09T00:00:00Z</updated>
+    <published>2026-09-09T00:00:00Z</published>
+    <summary>Alternance en développement digital et informatique de gestion au sein du site Hutchinson (groupe TotalEnergies) à Joué-lès-Tours, sur des projets liés aux systèmes d&#x27;information supportant l&#x27;activité industrielle du site (management des fluides et systèmes techniques). — Bac+3 à Bac+5 — Non précisé sur l&#x27;offre (domaine Systèmes d&#x27;Information / informatique de gestion)</summary>
+  </entry>
   <entry>
     <id>tag:coda.school,2026:offre-d031bef92561acc6</id>
     <title>Chef(fe) de projet SI junior - ERP &amp; Applications métiers — ETABLISSEMENTS LAVAL (Chedigny)</title>
@@ -20,22 +36,6 @@
     <updated>2026-09-08T00:00:00Z</updated>
     <published>2026-09-08T00:00:00Z</published>
     <summary>Alternance cybersécurité au sein du service Sécurité Opérationnelle de la Direction des Systèmes d&#x27;Information d&#x27;AG2R La Mondiale. — Bac+3 — </summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-c0dc6a7eb2996b22</id>
-    <title>ALTERNANCE - Ingénieur développement logiciel embarqué (H/F) — Thales (La Ferté-Saint-Aubin)</title>
-    <link href="https://www.wizbii.com/company/thales/job/alternance-ingenieur-developpement-logiciel-embarque-h-f-1"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <published>2026-09-07T00:00:00Z</published>
-    <summary>L&#x27;alternant évalue et implémente des outils d&#x27;aide au développement logiciel embarqué, teste la librairie CMSIS-DSP-ARM (FFT, filtres FIR, convolution), puis conçoit, développe et teste un logiciel embarqué sur microcontrôleur dans le respect des normes qualité de l&#x27;entreprise. — Bac+3 à Bac+4 — CMSIS-DSP-ARM, MATLAB, microcontrôleur, qualimétrie SQUALE, gestion de version</summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-a36d4c51c1a8cfd4</id>
-    <title>DevOps H/F — Fichet Group (Tours)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/83002674.html"/>
-    <updated>2026-09-04T00:00:00Z</updated>
-    <published>2026-09-04T00:00:00Z</published>
-    <summary>Seconde l&#x27;ingénieur DevOps sur le périmètre DevOps/SysOps/SecOps/FinOps : maintenance des pipelines CI/CD et gestion des conteneurs, déploiement Kubernetes, mise en place d&#x27;observabilité et optimisation des coûts AWS. — Bac+3 — Azure DevOps, Docker, Kubernetes, AWS, SonarQube, Prometheus, Grafana, Python, Git, .NET, Angular</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-0df2c3132ac67ea2</id>
