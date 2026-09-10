@@ -4,15 +4,7 @@
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
   <title>CODA Orléans — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-09T00:00:00Z</updated>
-  <entry>
-    <id>tag:coda.school,2026:offre-9c307128bcb1cfb1</id>
-    <title>Alternance DevOps H/F — Fichet Group (Tours)</title>
-    <link href="https://www.hellowork.com/fr-fr/emplois/83157466.html"/>
-    <updated>2026-09-09T00:00:00Z</updated>
-    <published>2026-09-09T00:00:00Z</published>
-    <summary>L&#x27;alternant seconde l&#x27;ingénieur DevOps sur l&#x27;automatisation des chaînes CI/CD et la sécurité applicative (DevSecOps). Il participe à des projets structurants : déploiement Kubernetes, mise en place d&#x27;une stack d&#x27;observabilité et optimisation budgétaire AWS. — Bac+3 à Bac+5 — Azure DevOps, Docker, Kubernetes (RKE2, k3d), AWS (ECS/ECR/RDS/CloudFront), SonarQube, Prometheus/Grafana/Loki, Python, PowerShell, Git, .NET, Angular</summary>
-  </entry>
+  <updated>2026-09-10T00:00:00Z</updated>
   <entry>
     <id>tag:coda.school,2026:offre-7557e8b9088df867</id>
     <title>Alternance Développeur Digital &amp; Informatique de Gestion H/F — TotalEnergies (site Hutchinson) (Joué-lès-Tours)</title>
@@ -28,14 +20,6 @@
     <updated>2026-09-08T00:00:00Z</updated>
     <published>2026-09-08T00:00:00Z</published>
     <summary>L&#x27;Administrateur de systèmes d&#x27;information (SI) joue un rôle crucial dans la gestion et la sécurité des infrastructures informatiques d&#x27;une entreprise. Gère et maintient les systèmes d&#x27;information et l&#x27;infrastructure rés — Bac+5 — </summary>
-  </entry>
-  <entry>
-    <id>tag:coda.school,2026:offre-6f9461373f63ef5d</id>
-    <title>Alternant Cybersécurité H/F — AG2R La Mondiale (Esvres)</title>
-    <link href="https://www.wizbii.com/company/ag2r-la-mondiale/job/alternant-cybersecurite-h-f"/>
-    <updated>2026-09-08T00:00:00Z</updated>
-    <published>2026-09-08T00:00:00Z</published>
-    <summary>Alternance cybersécurité au sein du service Sécurité Opérationnelle de la Direction des Systèmes d&#x27;Information d&#x27;AG2R La Mondiale. — Bac+3 — </summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-0df2c3132ac67ea2</id>
