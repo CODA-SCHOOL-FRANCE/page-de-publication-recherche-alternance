@@ -64,6 +64,13 @@ main h2 { font-size: 1.05rem; font-weight: 700; margin: 0 0 .8rem; }
 .presentation p:last-child { margin-bottom: 0; }
 .contact-carte { font-size: .9rem; color: var(--texte); }
 .contact-carte a { color: var(--bleu); font-weight: 600; }
+.coaching-cta { margin: .7rem 0 0; }
+.bouton-coaching {
+  display: inline-block; background: var(--bleu); color: #fff; font-weight: 700;
+  font-size: .85rem; padding: .5rem 1.05rem; border-radius: 999px; text-decoration: none;
+  transition: background .15s ease;
+}
+.bouton-coaching:hover { background: #0F2547; }
 #recherche {
   width: 100%; max-width: 420px; padding: .6rem .85rem; margin: 0 0 1.5rem;
   border: 1px solid var(--bordure); border-radius: 8px; font-size: .95rem;
@@ -89,16 +96,16 @@ main h2 { font-size: 1.05rem; font-weight: 700; margin: 0 0 .8rem; }
 }
 .carte-offre:hover { box-shadow: var(--ombre-hover); transform: translateY(-2px); }
 .carte-offre.new { background: linear-gradient(180deg, var(--jaune-new), var(--surface) 60%); }
-.carte-titre { margin: 0; font-size: 1rem; font-weight: 700; padding-right: 3.2rem; }
-.carte-sous { margin: 0; color: var(--gris); font-size: .85rem; }
-.carte-tags { display: flex; flex-wrap: wrap; gap: .35rem; }
+.carte-titre { margin: 0; font-size: 1rem; font-weight: 700; padding-right: 3.2rem; overflow-wrap: break-word; }
+.carte-sous { margin: 0; color: var(--gris); font-size: .85rem; overflow-wrap: break-word; }
+.carte-tags { display: flex; flex-wrap: wrap; gap: .35rem; max-width: 100%; }
 .tag {
-  display: inline-block; background: var(--bleu-clair); color: var(--bleu);
+  display: inline-block; max-width: 100%; background: var(--bleu-clair); color: var(--bleu);
   font-size: .72rem; font-weight: 600; padding: .2rem .55rem; border-radius: 999px;
-  white-space: nowrap;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
 .tag.tag-gris { background: #EEF0F3; color: var(--gris); }
-.carte-resume { margin: 0; font-size: .87rem; color: #333; line-height: 1.4; }
+.carte-resume { margin: 0; font-size: .87rem; color: #333; line-height: 1.4; overflow-wrap: break-word; }
 .carte-lien {
   margin-top: auto; align-self: flex-start; color: var(--bleu); font-weight: 700;
   font-size: .85rem; text-decoration: none; padding-top: .3rem;
@@ -154,7 +161,7 @@ footer a { color: var(--bleu); font-weight: 600; }
   <li>Aucune donnée personnelle n'est collectée sur ce site : pas de compte,
   pas de formulaire, pas de cookie de suivi.</li>
   <li>Une question, une offre à signaler (expirée, erronée) ? Contactez
-  Aurélien — <a href="mailto:aurelien@coda.school">aurelien@coda.school</a>.</li>
+  Aurélien Celestrano — <a href="mailto:aurelien@coda.school">aurelien@coda.school</a>.</li>
 </ul></div>
 </main>
 <footer>Site à l'usage exclusif des étudiants du campus CODA Dijon. Offres issues
