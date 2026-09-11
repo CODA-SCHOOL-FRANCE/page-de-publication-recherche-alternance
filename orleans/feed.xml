@@ -4,14 +4,14 @@
   <id>tag:coda.school,2026:veille-orleans-cvl</id>
   <title>CODA Orléans — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-10T00:00:00Z</updated>
+  <updated>2026-09-11T00:00:00Z</updated>
   <entry>
-    <id>tag:coda.school,2026:offre-7557e8b9088df867</id>
-    <title>Alternance Développeur Digital &amp; Informatique de Gestion H/F — TotalEnergies (site Hutchinson) (Joué-lès-Tours)</title>
-    <link href="https://jobs.totalenergies.com/fr_FR/careers/JobDetail/ALTERNANCE-DEVELOPPEUR-DIGITAL-INFORMATIQUE-DE-GESTION-H-F/78749"/>
-    <updated>2026-09-09T00:00:00Z</updated>
-    <published>2026-09-09T00:00:00Z</published>
-    <summary>Alternance en développement digital et informatique de gestion au sein du site Hutchinson (groupe TotalEnergies) à Joué-lès-Tours, sur des projets liés aux systèmes d&#x27;information supportant l&#x27;activité industrielle du site (management des fluides et systèmes techniques). — Bac+3 à Bac+5 — Non précisé sur l&#x27;offre (domaine Systèmes d&#x27;Information / informatique de gestion)</summary>
+    <id>tag:coda.school,2026:offre-606a4ac7be9e0de9</id>
+    <title>DevOps H/F (Alternance) — Fichet Group (Tours)</title>
+    <link href="https://www.hellowork.com/fr-fr/emplois/83245399.html"/>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <published>2026-09-11T00:00:00Z</published>
+    <summary>L&#x27;alternant seconde l&#x27;ingénieur DevOps sur l&#x27;automatisation des chaînes de construction, test et déploiement des produits logiciels : maintien des pipelines Azure DevOps, conteneurs Docker/Kubernetes sur AWS, outils qualité/sécurité et observabilité (Prometheus, Grafana, Loki). — Bac+2 — Azure DevOps, Docker, Kubernetes (RKE2), AWS (ECS, ECR, RDS), SonarQube, Prometheus, Grafana, Python, PowerShell, Git, .NET, Angular</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-d031bef92561acc6</id>

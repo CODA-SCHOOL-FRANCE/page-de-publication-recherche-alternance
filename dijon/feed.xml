@@ -4,14 +4,14 @@
   <id>tag:coda.school,2026:veille-dijon-bfc</id>
   <title>CODA Dijon — Veille Alternance Tech — Offres actives</title>
   <link rel="alternate" type="text/html" href="index.html"/>
-  <updated>2026-09-10T00:00:00Z</updated>
+  <updated>2026-09-11T00:00:00Z</updated>
   <entry>
     <id>tag:coda.school,2026:offre-68609ca81bf13c84</id>
     <title>Apprenti en Master de Développement MR/XR, Développeur / Développeuse Réalité Mixte - Application pédagogique en chirurgie maxillo-faciale — Université Bourgogne Europe (Dijon)</title>
     <link href="https://ube.nous-recrutons.fr/poste/glcfk79ecl-apprenti-en-master-de-developpement-mrxr-developpeur-developpeuse-realite-mixte-application-pedagogique-en-chirurgie-maxillo-faciale/"/>
     <updated>2026-09-08T00:00:00Z</updated>
     <published>2026-09-08T00:00:00Z</published>
-    <summary>L&#x27;apprenti(e) reprend et migre une application de réalité mixte de formation en chirurgie maxillo-faciale de Unity 2021 vers Unity 2022.3 LTS, en optimisant la détection de marqueurs ArUco et l&#x27;expérience pédagogique sur casque HoloLens 2. — Bac+5 (Master) — Unity 2022.3 LTS, C#, C++, Microsoft HoloLens 2, OpenCV/ArUco, MRTK 3, OpenXR, Git</summary>
+    <summary>Migrer une application de réalité mixte de Unity 2021 vers Unity 2022.3 LTS en optimisant la détection ArUco/OpenCV, puis améliorer l&#x27;interface pédagogique avec MRTK 3 et OpenXR pour un usage clinique en formation chirurgicale maxillo-faciale. — Bac+5 (Master) — Unity 2022.3 LTS, C#, C++, MRTK 3, OpenXR, OpenCV, ArUco, Microsoft HoloLens 2, Git</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-a678efd41e336474</id>
@@ -19,7 +19,7 @@
     <link href="https://www.hellowork.com/fr-fr/emplois/81303467.html"/>
     <updated>2026-08-13T00:00:00Z</updated>
     <published>2026-08-13T00:00:00Z</published>
-    <summary>L&#x27;apprenti(e) participe au support informatique et au déploiement/maintien du parc informatique, gère l&#x27;environnement numérique de travail et assiste la gestion des infrastructures et la supervision des réseaux. — Bac+2 à Bac+5 — Windows, Linux, TCP/IP, Active Directory, environnement numérique de travail, supervision réseaux, maintenance serveurs</summary>
+    <summary>L&#x27;apprenti participe aux activités de support technique et d&#x27;exploitation informatique, au déploiement et à la maintenance du parc informatique, ainsi qu&#x27;à la supervision des réseaux et la maintenance des serveurs. — Bac+2 à Bac+5 — Administration systèmes et réseaux, supervision, serveurs</summary>
   </entry>
   <entry>
     <id>tag:coda.school,2026:offre-c2318c5f755ffa17</id>
